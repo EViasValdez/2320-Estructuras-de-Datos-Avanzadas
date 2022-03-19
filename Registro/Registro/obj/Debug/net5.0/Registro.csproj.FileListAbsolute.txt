@@ -1,0 +1,16 @@
+E:\Registro\Registro\bin\Debug\net5.0\Registro.exe
+E:\Registro\Registro\bin\Debug\net5.0\Registro.deps.json
+E:\Registro\Registro\bin\Debug\net5.0\Registro.runtimeconfig.json
+E:\Registro\Registro\bin\Debug\net5.0\Registro.runtimeconfig.dev.json
+E:\Registro\Registro\bin\Debug\net5.0\Registro.dll
+E:\Registro\Registro\bin\Debug\net5.0\ref\Registro.dll
+E:\Registro\Registro\bin\Debug\net5.0\Registro.pdb
+E:\Registro\Registro\obj\Debug\net5.0\Registro.csproj.AssemblyReference.cache
+E:\Registro\Registro\obj\Debug\net5.0\Registro.GeneratedMSBuildEditorConfig.editorconfig
+E:\Registro\Registro\obj\Debug\net5.0\Registro.AssemblyInfoInputs.cache
+E:\Registro\Registro\obj\Debug\net5.0\Registro.AssemblyInfo.cs
+E:\Registro\Registro\obj\Debug\net5.0\Registro.csproj.CoreCompileInputs.cache
+E:\Registro\Registro\obj\Debug\net5.0\Registro.dll
+E:\Registro\Registro\obj\Debug\net5.0\ref\Registro.dll
+E:\Registro\Registro\obj\Debug\net5.0\Registro.pdb
+E:\Registro\Registro\obj\Debug\net5.0\Registro.genruntimeconfig.cache
