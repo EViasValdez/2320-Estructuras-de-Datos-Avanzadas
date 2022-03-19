@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Registro
+namespace ArbolBinario2
 {
     class Program
     {
