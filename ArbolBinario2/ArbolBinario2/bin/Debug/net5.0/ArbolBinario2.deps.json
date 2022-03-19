@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Registro/1.0.0": {
+      "ArbolBinario2/1.0.0": {
         "runtime": {
-          "Registro.dll": {}
+          "ArbolBinario2.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Registro/1.0.0": {
+    "ArbolBinario2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

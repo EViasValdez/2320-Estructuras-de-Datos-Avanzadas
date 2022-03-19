@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Registro\\Registro\\Registro.csproj",
-      "projectName": "Registro",
-      "projectPath": "E:\\Registro\\Registro\\Registro.csproj",
+      "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-Estructuras-De-Datos-Avanzadas\\ArbolBinario2\\ArbolBinario2\\ArbolBinario2.csproj",
+      "projectName": "ArbolBinario2",
+      "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-Estructuras-De-Datos-Avanzadas\\ArbolBinario2\\ArbolBinario2\\ArbolBinario2.csproj",
       "packagesPath": "C:\\Users\\defaultuser0\\.nuget\\packages\\",
-      "outputPath": "E:\\Registro\\Registro\\obj\\",
+      "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-Estructuras-De-Datos-Avanzadas\\ArbolBinario2\\ArbolBinario2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\defaultuser0\\AppData\\Roaming\\NuGet\\NuGet.Config"
