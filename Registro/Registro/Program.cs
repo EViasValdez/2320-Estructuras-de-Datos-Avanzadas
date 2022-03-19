@@ -18,7 +18,7 @@ namespace Registro
             
 			do
 			{
-				Console.WriteLine("¿Contiene relacion izquierda? S/N ");
+				Console.WriteLine("¿Contiene relacion izquierda? S/N");
 				resp = Console.ReadLine();
 			} while (resp != "s" && resp != "n");
 			
