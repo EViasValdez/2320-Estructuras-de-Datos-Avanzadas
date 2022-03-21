@@ -6,4 +6,4 @@ Descripcion todavia por ser hecha.
 <!----Notas---->
 <!----Separador de las notas---->
 <!----Directorio con ubicacion de archivos---->
-<!----Separador del direrctorio con ubicacion de archivos---->****
+<!----Separador del direrctorio con ubicacion de archivos---->
