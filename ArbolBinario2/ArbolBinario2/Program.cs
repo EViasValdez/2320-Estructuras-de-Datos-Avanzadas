@@ -91,7 +91,6 @@ namespace ArbolBinario2
 			{
 				textarray3 = textarray3 + a + ",";
 			}
-			
 			Console.WriteLine(textarray1);
 			Console.WriteLine(textarray2);
 			Console.WriteLine(textarray3);

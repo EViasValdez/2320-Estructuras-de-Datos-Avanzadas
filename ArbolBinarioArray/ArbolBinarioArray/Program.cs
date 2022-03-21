@@ -22,7 +22,6 @@ namespace ArbolBiarioArray
             
             Console.ReadKey();
         }
-
         public static void llenarDefault()
         {
             array1 [0] = 100;
@@ -177,7 +176,6 @@ namespace ArbolBiarioArray
                                     Guardar (2, 4, 7);
                                     Console.WriteLine("El nodo llego a su limite");
                                 }
-
                             }
                             // Temporal
                             resp = "n";
@@ -216,9 +214,7 @@ namespace ArbolBiarioArray
             {
                 array4 [indice] = nodo;
             }
-
         }
-
         public static string IzquierdaDerecha(int valor)
         {
             string resp = " ";
@@ -240,7 +236,6 @@ namespace ArbolBiarioArray
                     Console.WriteLine("Error..... Opcion incorrecta. ");
                 }
             } while (resp != "s" && resp != "n");
-
             return resp;
         }
 
@@ -326,7 +321,6 @@ namespace ArbolBiarioArray
                 contador++;
 
             }
-
             foreach (int a in array4)
             {
                 if (a == 0)
@@ -420,9 +414,7 @@ namespace ArbolBiarioArray
                     {
                         incorrecto = 1;
                     }
-
                 } while (incorrecto == 0);
-
                 if (nivel == 1)
                 {
                     array1 [nodoEliminar] = 0;
@@ -439,8 +431,6 @@ namespace ArbolBiarioArray
                 {
                     array4 [nodoEliminar] = 0;
                 }
-
-
                 for (int i = 0; i < array1.Length; i++)
                 {
                     if (array1 [i] == 0)
@@ -459,13 +449,11 @@ namespace ArbolBiarioArray
                         int c = 0, d = 1;
                         for (int k = 0; k < array3.Length; k++)
                         {
-                          
                             if (array3 [k] == 0)
                             {
                                 array4 [c] = 0;
                                 array4 [d] = 0;
-                            }
-                                                       
+                            }            
                             c = c + 2;
                             d = d + 2;
                         }
