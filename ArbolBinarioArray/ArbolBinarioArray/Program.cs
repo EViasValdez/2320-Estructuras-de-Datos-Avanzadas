@@ -12,6 +12,7 @@ namespace ArbolBiarioArray
         public static int [] array2 = new int [2];
         public static int [] array3 = new int [4];
         public static int [] array4 = new int [8];
+
         static void Main(string[] args)
         {
             // llenar();
@@ -89,7 +90,7 @@ namespace ArbolBiarioArray
                         resp = IzquierdaDerecha (1);
                         if (resp == "s")
                         {
-                            Guardar(1, 4, 2);
+                            Guardar (1, 4, 2);
                             Console.WriteLine("El nodo llego a su limite");
                             // Temporal
                             resp = "n";
@@ -249,7 +250,6 @@ namespace ArbolBiarioArray
             {
                 textarray1 = textarray1 + a;
             }
-
             foreach (int a in array2)
             {
                 if (a == 0)
@@ -366,7 +366,6 @@ namespace ArbolBiarioArray
             Console.WriteLine("        " + linea5);
             Console.WriteLine("       " + textarray4);
         }
-
         public static void eliminar()
         {
             Console.WriteLine("¿Desea eliminar un nodo o una hoja? S/N");
@@ -390,10 +389,12 @@ namespace ArbolBiarioArray
 
                 int nodoEliminar;
                 int incorrecto = 0;
+
                 do
                 {
                     Console.WriteLine("Indique la posicion del nodo a eliminar");
                     nodoEliminar = int.Parse (Console.ReadLine());
+
                     if (nivel== 1 && (nodoEliminar >0 || nodoEliminar < 0 ))
                     {
                         Console.WriteLine("El nodo a eliminar es incorrecto");
@@ -467,6 +468,7 @@ namespace ArbolBiarioArray
         {
             string valor = "  |  ";
             string posicion = "  |  ";
+            
             if (nivel == 1)
             {
                 for (int i = 0; i < array1.Length; i++)
@@ -495,7 +497,6 @@ namespace ArbolBiarioArray
             }
             else if (nivel == 3)
             {
-
                 for (int i = 0; i < array3.Length; i++)
                 {
                     if (array3 [i] > 0)
