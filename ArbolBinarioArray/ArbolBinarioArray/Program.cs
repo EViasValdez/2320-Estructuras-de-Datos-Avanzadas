@@ -104,7 +104,6 @@ namespace ArbolBiarioArray
                                 Guardar (2, 4, 3);
                                 Console.WriteLine("El nodo llego a su limite");
                             }
-
                         }
                         // Temporal
                         resp = "n";
@@ -113,7 +112,6 @@ namespace ArbolBiarioArray
                 // Temporal
                 resp = "n";
             }
-
             if (resp == "n")
             {
                 resp = IzquierdaDerecha (2);
@@ -136,7 +134,6 @@ namespace ArbolBiarioArray
                             // Temporal
                             resp = "n";
                         }
-
                         if (resp == "n")
                         {
                             resp = IzquierdaDerecha (2);
@@ -168,7 +165,6 @@ namespace ArbolBiarioArray
                                 // Temporal
                                 resp = "n";
                             }
-
                             if (resp == "n")
                             {
                                 resp = IzquierdaDerecha (2);
@@ -185,7 +181,6 @@ namespace ArbolBiarioArray
                     // Temporal
                     resp = "n";
                 }
-
             }
         }
         public static void Guardar(int valor, int nivel, int indice)

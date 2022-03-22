@@ -25,7 +25,7 @@ namespace ArbolBinario2
 			if (resp == "s")
 			{
 				Console.WriteLine("Ingrese el valor del nodo izquierdo:");
-				nodo = int.Parse (Console.ReadLine());
+				nodo = int.Parse(Console.ReadLine());
 				array2 [0] = nodo;
 			
 				do
@@ -37,7 +37,7 @@ namespace ArbolBinario2
 				if (resp == "s")
 				{
 					Console.WriteLine("Ingrese el valor del nodo izquierdo:");
-					nodo = int.Parse (Console.ReadLine());
+					nodo = int.Parse(Console.ReadLine());
 					array3 [0] = nodo;
 
 					// Temporal
@@ -55,7 +55,7 @@ namespace ArbolBinario2
 					if (resp == "s")
 					{
 						Console.WriteLine("Ingrese el valor del nodo derecho");
-						nodo = int.Parse (Console.ReadLine());
+						nodo = int.Parse(Console.ReadLine());
 						array3 [1] = nodo;
 					}
 				}
@@ -73,7 +73,7 @@ namespace ArbolBinario2
 				if (resp == "s")
 				{
 					Console.WriteLine("Ingrese el valor del nodo derecho");
-					nodo = int.Parse (Console.ReadLine());
+					nodo = int.Parse(Console.ReadLine());
 					array2 [1] = nodo;
 				}
 			}
