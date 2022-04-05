@@ -30,7 +30,7 @@ namespace ArbolBinario2
 			
 				do
 				{
-					Console.WriteLine("¿Contiene relacion izquierda? S/N");
+					Console.WriteLine("¿Contiene relacion a la izquierda? S/N");
 					resp = Console.ReadLine();
 				} while (resp != "s" && resp != "n");
 			
@@ -48,7 +48,7 @@ namespace ArbolBinario2
 				{
 					do
 					{
-						Console.WriteLine("Contiene relacion derecha s/n: ");
+						Console.WriteLine("¿Contiene relacion a la derecha? s/n: ");
 						resp = Console.ReadLine();
 					} while (resp != "s" && resp != "n");
 
@@ -66,7 +66,7 @@ namespace ArbolBinario2
 			{
 				do
 				{
-					Console.WriteLine("Contine relacion derecha s/n: ");
+					Console.WriteLine("¿Contiene relacion a la derecha? S/N: ");
 					resp = Console.ReadLine();
 				} while (resp != "s" && resp != "n");
 			

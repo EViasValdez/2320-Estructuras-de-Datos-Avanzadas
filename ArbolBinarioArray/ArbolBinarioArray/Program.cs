@@ -189,11 +189,11 @@ namespace ArbolBiarioArray
 
             if (valor == 1)
             {
-                Console.WriteLine("Ingrese el Valor del nodo Izquierdo:");
+                Console.WriteLine("Ingrese el Valor del nodo izquierdo: ");
             }
             else if (valor == 2)
             {
-                Console.WriteLine("Ingrese el Valor del nodo Derecha:");
+                Console.WriteLine("Ingrese el Valor del nodo derecho: ");
             }
 
             nodo = int.Parse (Console.ReadLine());
@@ -219,17 +219,17 @@ namespace ArbolBiarioArray
             {
                 if (valor == 1)
                 {
-                    Console.WriteLine("¿Contine relacion izquierda? S/N: ");
+                    Console.WriteLine("¿Contine relacion a la izquierda? S/N: ");
                 }
                 else if (valor == 2)
                 {
-                    Console.WriteLine("¿Contine relacion Derecha? S/N: ");
+                    Console.WriteLine("¿Contine relacion a la Derecha? S/N: ");
                 }
 
                 resp = Console.ReadLine();
                 if ((resp != "s" && resp != "n"))
                 {
-                    Console.WriteLine("Error..... Opcion incorrecta. ");
+                    Console.WriteLine("Esa opcion no es valida");
                 }
             } while (resp != "s" && resp != "n");
             return resp;
@@ -372,7 +372,7 @@ namespace ArbolBiarioArray
 
                 do
                 {
-                    Console.WriteLine("¿De que nivel desea eliminar la hoja o el nodo?");
+                    Console.WriteLine("¿Que desea eliminar la hoja o el nodo?");
                     nivel = int.Parse (Console.ReadLine());
                     if (nivel < 1 || nivel > 5)
                     {
