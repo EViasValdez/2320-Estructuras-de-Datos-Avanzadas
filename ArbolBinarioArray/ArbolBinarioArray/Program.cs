@@ -40,7 +40,7 @@ namespace ArbolBiarioArray
         }
         public static void llenar()
         {
-            Console.WriteLine("Ingrese el valor del nodo raiz: ");
+            Console.WriteLine("Ingrese el valor del nodo raiz:");
             int raiz = int.Parse(Console.ReadLine());
             array1 [0] = raiz;
 
@@ -189,11 +189,11 @@ namespace ArbolBiarioArray
 
             if (valor == 1)
             {
-                Console.WriteLine("Ingrese el Valor del nodo izquierdo: ");
+                Console.WriteLine("Ingrese el Valor del nodo izquierdo:");
             }
             else if (valor == 2)
             {
-                Console.WriteLine("Ingrese el Valor del nodo derecho: ");
+                Console.WriteLine("Ingrese el Valor del nodo derecho:");
             }
 
             nodo = int.Parse (Console.ReadLine());
@@ -219,11 +219,11 @@ namespace ArbolBiarioArray
             {
                 if (valor == 1)
                 {
-                    Console.WriteLine("¿Contine relacion a la izquierda? S/N: ");
+                    Console.WriteLine("¿Contine relacion a la izquierda? S/N");
                 }
                 else if (valor == 2)
                 {
-                    Console.WriteLine("¿Contine relacion a la Derecha? S/N: ");
+                    Console.WriteLine("¿Contine relacion a la Derecha? S/N");
                 }
 
                 resp = Console.ReadLine();
@@ -376,7 +376,7 @@ namespace ArbolBiarioArray
                     nivel = int.Parse (Console.ReadLine());
                     if (nivel < 1 || nivel > 5)
                     {
-                        Console.WriteLine("Valor incorrecto, solo puede seleccionar un valor entre el 1 y el 4....");
+                        Console.WriteLine("Valor incorrecto, solo se puede seleccionar un valor entre el 1 y el 4");
                     }
                 } while (nivel < 1 || nivel > 5);
 
@@ -390,7 +390,7 @@ namespace ArbolBiarioArray
                     Console.WriteLine("Indique la posicion del nodo a eliminar");
                     nodoEliminar = int.Parse (Console.ReadLine());
 
-                    if (nivel== 1 && (nodoEliminar >0 || nodoEliminar < 0 ))
+                    if (nivel== 1 && (nodoEliminar > 0 || nodoEliminar < 0 ))
                     {
                         Console.WriteLine("El nodo a eliminar es incorrecto");
                     }

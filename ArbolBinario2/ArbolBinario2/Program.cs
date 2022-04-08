@@ -18,7 +18,7 @@ namespace ArbolBinario2
             
 			do
 			{
-				Console.WriteLine("¿Contiene relacion izquierda? S/N");
+				Console.WriteLine("¿Contiene relacion a la izquierda? S/N");
 				resp = Console.ReadLine();
 			} while (resp != "s" && resp != "n");
 			
@@ -77,7 +77,7 @@ namespace ArbolBinario2
 					array2 [1] = nodo;
 				}
 			}
-			string textarray1="", textarray2="", textarray3="";
+			string textarray1 = "", textarray2 = "", textarray3 = "";
 
 			foreach (int a in array1)
 			{
