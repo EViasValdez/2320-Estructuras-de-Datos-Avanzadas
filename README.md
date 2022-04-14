@@ -39,7 +39,7 @@ ArbolBinarioArray/ArbolBinarioArray/ArbolBinarioArray.csproj,
 ArbolBinarioArray/ArbolBinarioArray/Program.cs, 
 ArbolBinarioArray/ArbolBinarioArray.sln)
 <!----Separador---->
-###### ArbolBinario2 - 08/05/20
+###### ArbolBinario2 - 27/05/20
 (ArbolBinario2/ArbolBinario2/bin/Debug/net5.0/ref/ArbolBinario2.dll, 
 ArbolBinario2/ArbolBinario2/bin/Debug/net5.0/ArbolBinario2.deps.json, 
 ArbolBinario2/ArbolBinario2/bin/Debug/net5.0/ArbolBinario2.dll, 
