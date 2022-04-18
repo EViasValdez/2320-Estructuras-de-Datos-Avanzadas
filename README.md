@@ -7,7 +7,7 @@ Descripcion todavia por ser hecha.
 <!----Notas---->
 **Notas**
 
-**- No he puesto todavia una fecha estatica de donde se hayan creado los archivos.**
+**- No he puesto todavia una fecha exacta de creacion de los archivos.**
 <!----Separador de las notas---->
 
 <!----Directorio con ubicacion de archivos---->
