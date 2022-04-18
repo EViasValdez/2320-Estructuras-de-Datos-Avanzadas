@@ -5,6 +5,9 @@ Descripcion todavia por ser hecha.
 <!----Separador de la descripcion ---->
 
 <!----Notas---->
+**Notas**
+
+**- No he puesto todavia una fecha estatica de donde se hayan creado los archivos.**
 <!----Separador de las notas---->
 
 <!----Directorio con ubicacion de archivos---->
