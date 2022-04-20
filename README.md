@@ -7,7 +7,9 @@ Descripcion todavia por ser hecha.
 <!----Notas---->
 **Notas**
 
-**- No he puesto todavia una fecha exacta de creacion de los archivos.**
+**- No he puesto todavia una fecha exacta de creacion de algunos trabajos.**
+
+**- Tambien ando viendo otros trabajos que no pude realizar.**
 <!----Separador de las notas---->
 
 <!----Directorio con ubicacion de archivos---->
