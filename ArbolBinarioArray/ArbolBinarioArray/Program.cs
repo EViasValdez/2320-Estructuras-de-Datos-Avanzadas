@@ -42,103 +42,104 @@ namespace ArbolBiarioArray
         {
             Console.WriteLine("Ingrese el valor del nodo raiz:");
             int raiz = int.Parse(Console.ReadLine());
+
             array1 [0] = raiz;
 
             string resp;
             int nodo;
 
             resp = IzquierdaDerecha (1);
-            if (resp == "s")
+            if (resp == "S")
             {
                 Guardar (1, 2, 0);
                 resp = IzquierdaDerecha (1);
 
-                if (resp == "s")
+                if (resp == "S")
                 {
                     Guardar (1, 3, 0);
 
                     resp = IzquierdaDerecha (1);
-                    if (resp == "s")
+                    if (resp == "S")
                     {
                         Guardar (1, 4, 0);
                         Console.WriteLine("El nodo llego a su limite");
 
                         // Temporal
-                        resp = "n";
+                        resp = "N";
                     }
-                    if (resp == "n")
+                    if (resp == "N")
                     {
                         resp = IzquierdaDerecha (2);
 
-                        if (resp == "s")
+                        if (resp == "S")
                         {
                             Guardar (2, 4, 1);
                             Console.WriteLine("El nodo llego a su limite");
                         }
                     }
                     // Temporal
-                    resp = "n";
+                    resp = "N";
                 }
-                if (resp == "n")
+                if (resp == "N")
                 {
                     resp = IzquierdaDerecha (2);
 
-                    if (resp == "s")
+                    if (resp == "S")
                     {
                         Guardar (2, 3, 1);
 
                         resp = IzquierdaDerecha (1);
-                        if (resp == "s")
+                        if (resp == "S")
                         {
                             Guardar (1, 4, 2);
                             Console.WriteLine("El nodo llego a su limite");
                             // Temporal
-                            resp = "n";
+                            resp = "N";
                         }
-                        if (resp == "n")
+                        if (resp == "N")
                         {
                             resp = IzquierdaDerecha (2);
 
-                            if (resp == "s")
+                            if (resp == "S")
                             {
                                 Guardar (2, 4, 3);
                                 Console.WriteLine("El nodo llego a su limite");
                             }
                         }
                         // Temporal
-                        resp = "n";
+                        resp = "N";
                     }
                 }
                 // Temporal
-                resp = "n";
+                resp = "N";
             }
-            if (resp == "n")
+            if (resp == "N")
             {
                 resp = IzquierdaDerecha (2);
 
-                if (resp == "s")
+                if (resp == "S")
                 {
                     Guardar (2, 2, 1);
                     resp = IzquierdaDerecha (1);
 
-                    if (resp == "s")
+                    if (resp == "S")
                     {
                         Guardar (1, 3, 2);
 
                         resp = IzquierdaDerecha (1);
-                        if (resp == "s")
+                        if (resp == "S")
                         {
                             Guardar (1, 4, 4);
                             Console.WriteLine("El nodo llego a su limite");
 
                             // Temporal
-                            resp = "n";
+                            resp = "N";
                         }
-                        if (resp == "n")
+                        if (resp == "N")
                         {
                             resp = IzquierdaDerecha (2);
 
-                            if (resp == "s")
+                            if (resp == "S")
                             {
                                 Guardar (2, 4, 5);
                                 Console.WriteLine("El nodo llego a su limite");
@@ -146,40 +147,40 @@ namespace ArbolBiarioArray
 
                         }
                         // Temporal
-                        resp = "n";
+                        resp = "N";
                     }
-                    if (resp == "n")
+                    if (resp == "N")
                     {
                         resp = IzquierdaDerecha (2);
 
-                        if (resp == "s")
+                        if (resp == "S")
                         {
                             Guardar (2, 3, 3);
                             resp = IzquierdaDerecha (1);
 
-                            if (resp == "s")
+                            if (resp == "S")
                             {
                                 Guardar (1, 4, 6);
                                 Console.WriteLine("El nodo llego a su limite");
 
                                 // Temporal
-                                resp = "n";
+                                resp = "N";
                             }
-                            if (resp == "n")
+                            if (resp == "N")
                             {
                                 resp = IzquierdaDerecha (2);
-                                if (resp == "s")
+                                if (resp == "S")
                                 {
                                     Guardar (2, 4, 7);
                                     Console.WriteLine("El nodo llego a su limite");
                                 }
                             }
                             // Temporal
-                            resp = "n";
+                            resp = "N";
                         }
                     }
                     // Temporal
-                    resp = "n";
+                    resp = "N";
                 }
             }
         }
@@ -227,11 +228,11 @@ namespace ArbolBiarioArray
                 }
 
                 resp = Console.ReadLine();
-                if ((resp != "s" && resp != "n"))
+                if ((resp != "S" && resp != "N"))
                 {
                     Console.WriteLine("Esa opcion no es valida");
                 }
-            } while (resp != "s" && resp != "n");
+            } while (resp != "S" && resp != "N");
             return resp;
         }
 
@@ -366,7 +367,7 @@ namespace ArbolBiarioArray
             Console.WriteLine("¿Desea eliminar un nodo o una hoja? S/N");
             string resp = Console.ReadLine();
 
-            if (resp == "s")
+            if (resp == "S")
             {
                 int nivel = 0;
 

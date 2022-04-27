@@ -7,8 +7,8 @@ namespace ArbolBinario2
         static void Main(string[] args)
         {
             Console.Write("Ingrese el valor del nodo raiz");
-            
 			int raiz = int.Parse (Console.ReadLine());
+
       		int [] array1 = new int [0];
       		int [] array2 = new int [0];
       		int [] array3 = new int [0];
@@ -20,11 +20,11 @@ namespace ArbolBinario2
 			{
 				Console.WriteLine("¿Contiene relacion a la izquierda? S/N");
 				resp = Console.ReadLine();
-			} while (resp != "s" && resp != "n");
+			} while (resp != "S" && resp != "N");
 			
-			if (resp == "s")
+			if (resp == "S")
 			{
-				Console.WriteLine("Ingrese el valor del nodo izquierdo:");
+				Console.WriteLine("Ingrese el valor del nodo izquierdo");
 				nodo = int.Parse(Console.ReadLine());
 				array2 [0] = nodo;
 			
@@ -32,27 +32,27 @@ namespace ArbolBinario2
 				{
 					Console.WriteLine("¿Contiene relacion a la izquierda? S/N");
 					resp = Console.ReadLine();
-				} while (resp != "s" && resp != "n");
+				} while (resp != "S" && resp != "N");
 			
-				if (resp == "s")
+				if (resp == "S")
 				{
 					Console.WriteLine("Ingrese el valor del nodo izquierdo:");
 					nodo = int.Parse(Console.ReadLine());
 					array3 [0] = nodo;
 
 					// Temporal
-					resp = "n";
+					resp = "S";
 				}
 			
-				if (resp == "n")
+				if (resp == "N")
 				{
 					do
 					{
-						Console.WriteLine("¿Contiene relacion a la derecha? s/n: ");
+						Console.WriteLine("¿Contiene relacion a la derecha? S/N");
 						resp = Console.ReadLine();
-					} while (resp != "s" && resp != "n");
+					} while (resp != "S" && resp != "N");
 
-					if (resp == "s")
+					if (resp == "S")
 					{
 						Console.WriteLine("Ingrese el valor del nodo derecho");
 						nodo = int.Parse(Console.ReadLine());
@@ -60,17 +60,17 @@ namespace ArbolBinario2
 					}
 				}
 				// Temporal
-				resp = "n";
+				resp = "N";
 			}
-			if (resp == "n")
+			if (resp == "N")
 			{
 				do
 				{
 					Console.WriteLine("¿Contiene relacion a la derecha? S/N: ");
 					resp = Console.ReadLine();
-				} while (resp != "s" && resp != "n");
+				} while (resp != "S" && resp != "N");
 			
-				if (resp == "s")
+				if (resp == "S")
 				{
 					Console.WriteLine("Ingrese el valor del nodo derecho");
 					nodo = int.Parse(Console.ReadLine());
