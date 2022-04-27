@@ -5,6 +5,11 @@ Descripcion todavia por ser hecha.
 <!----Separador de la descripcion ---->
 
 <!----Notas---->
+**Notas**
+
+**- No he puesto todavia una fecha exacta de creacion de algunos trabajos.**
+
+**- Tambien ando viendo otros trabajos que no pude realizar.**
 <!----Separador de las notas---->
 
 <!----Directorio con ubicacion de archivos---->
