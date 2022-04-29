@@ -17,10 +17,8 @@ namespace BusquedaSecuencial
             
             for (int i = 0; i < arrayCont.Length; i++)
             {
-
                 Console.WriteLine("Ingrese el numero " + i);
                 arrayCont[i] = int.Parse(Console.ReadLine());
-
             }
 
             Console.WriteLine("Ingrese el elemento a buscar");
@@ -41,7 +39,6 @@ namespace BusquedaSecuencial
                 }
                 cont++;
             }
-
             if (res)
             {
                 Console.WriteLine("No se encuentra el elemento buscado");
@@ -73,7 +70,6 @@ namespace BusquedaSecuencial
 
             foreach (string b in list)
             {
-
                 if (b == valorbuscado)
                 {
                     Console.WriteLine("El valor se encuentra en el indice " + cont);
@@ -86,7 +82,6 @@ namespace BusquedaSecuencial
                     Console.WriteLine("No se encuentra el elemento buscado");
                 }
             }
-
         }
 
         public static void buscarObjeto()
@@ -120,5 +115,5 @@ namespace BusquedaSecuencial
                 }
             }
         }
-}
+    }
 }

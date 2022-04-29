@@ -34,7 +34,7 @@ namespace TablasHash
             Console.WriteLine(tb.Contains(7));
 
             Console.WriteLine("-----------------------------------");
-            tb.Remove(6);
+            tb.Remove (6);
 
             Console.WriteLine("-----------------------------------");
             foreach (string b in tb.Values)
@@ -68,12 +68,12 @@ namespace TablasHash
                 {
                     Console.WriteLine("El valor " + valorBuscado + " no existe en la tabla");
                 }
-
             }
             else if (tipo == 2)
             {
                 Console.WriteLine("Ingrese el valor a buscar: ");
                 string valorBuscado = Console.ReadLine();
+                
                 bool encuentra = false;
 
                 foreach (string val in tb.Values)
@@ -83,14 +83,11 @@ namespace TablasHash
                         Console.WriteLine("El valor " + valorBuscado + " existe en la tabla");
                         encuentra = true;
                     }
-
                     if (encuentra)
                     {
                         Console.WriteLine("El valor " + valorBuscado + " no existe en la tabla");
                     }
-
                 }
-
             }
             Console.ReadKey();
         }

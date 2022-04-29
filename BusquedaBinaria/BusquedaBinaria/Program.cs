@@ -29,7 +29,6 @@ namespace BusquedaBinaria
                         arreglo[j + 1] = aux;
                     }
                 }
-
             }
             Console.Clear();
             foreach (int b in arreglo)
@@ -61,7 +60,6 @@ namespace BusquedaBinaria
                 {
                     inicio = media + 1;
                 }
-
             } while (z == false);
             Console.ReadKey();
         }
