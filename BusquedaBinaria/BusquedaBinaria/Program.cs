@@ -31,7 +31,6 @@ namespace BusquedaBinaria
                 }
 
             }
-
             Console.Clear();
             foreach (int b in arreglo)
             {
@@ -49,7 +48,6 @@ namespace BusquedaBinaria
             do
             {
                 media = (inicio + final) / 2;
-
                 if (valorbuscado == arreglo[media])
                 {
                     Console.WriteLine("El valor buscado se encuentra en el indice " + media);
@@ -65,9 +63,7 @@ namespace BusquedaBinaria
                 }
 
             } while (z == false);
-
             Console.ReadKey();
-
         }
     }
 }

@@ -29,7 +29,6 @@ namespace BusquedaSecuencial
 
             foreach (int a in arrayCont)
             {
-
                 if (a == valor)
                 {
                     Console.WriteLine("El valor buscado se encuentrea en el indice " + cont);
@@ -39,7 +38,6 @@ namespace BusquedaSecuencial
                     Console.WriteLine("No se encuentra el elemento buscado");
                 }
                 cont++;
-
             }
 
             if (res)
@@ -112,7 +110,6 @@ namespace BusquedaSecuencial
                     Console.WriteLine("El valor buscado se encuentra con el id " + a.id);
                     resp = true;
                 }
-
                 if (resp == false)
                 {
                     Console.WriteLine("El valor no fue encontrado");

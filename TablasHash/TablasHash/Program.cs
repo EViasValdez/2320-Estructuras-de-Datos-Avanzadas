@@ -20,7 +20,6 @@ namespace TablasHash
                 Console.WriteLine(estados.Key + " " + estados.Value);
             }
 
-
             tb.Add(6, "Guerrero");
             Console.WriteLine("-----------------------------------");
             foreach (DictionaryEntry estados in tb)
@@ -60,6 +59,7 @@ namespace TablasHash
             {
                 Console.WriteLine("Ingrese el Id a buscar");
                 int valorBuscado = int.Parse(Console.ReadLine());
+
                 if (tb.Contains(valorBuscado))
                 {
                     Console.WriteLine("El valor" + valorBuscado + "existe en la tabla");
@@ -80,23 +80,19 @@ namespace TablasHash
                 {
                     if (val == valorBuscado)
                     {
-                        Console.WriteLine("El valor " + valorBuscado + "existe en la tabla");
+                        Console.WriteLine("El valor " + valorBuscado + " existe en la tabla");
                         encuentra = true;
                     }
 
                     if (encuentra)
                     {
-                        Console.WriteLine("El valor" + valorBuscado + "no existe en la tabla");
+                        Console.WriteLine("El valor" + valorBuscado + " no existe en la tabla");
                     }
 
                 }
 
             }
-
-
-
             Console.ReadKey();
-
         }
     }
 }
