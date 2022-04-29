@@ -1,0 +1,16 @@
+E:\BusquedaBinaria\BusquedaBinaria\bin\Debug\net5.0\BusquedaBinaria.exe
+E:\BusquedaBinaria\BusquedaBinaria\bin\Debug\net5.0\BusquedaBinaria.deps.json
+E:\BusquedaBinaria\BusquedaBinaria\bin\Debug\net5.0\BusquedaBinaria.runtimeconfig.json
+E:\BusquedaBinaria\BusquedaBinaria\bin\Debug\net5.0\BusquedaBinaria.runtimeconfig.dev.json
+E:\BusquedaBinaria\BusquedaBinaria\bin\Debug\net5.0\BusquedaBinaria.dll
+E:\BusquedaBinaria\BusquedaBinaria\bin\Debug\net5.0\ref\BusquedaBinaria.dll
+E:\BusquedaBinaria\BusquedaBinaria\bin\Debug\net5.0\BusquedaBinaria.pdb
+E:\BusquedaBinaria\BusquedaBinaria\obj\Debug\net5.0\BusquedaBinaria.csproj.AssemblyReference.cache
+E:\BusquedaBinaria\BusquedaBinaria\obj\Debug\net5.0\BusquedaBinaria.GeneratedMSBuildEditorConfig.editorconfig
+E:\BusquedaBinaria\BusquedaBinaria\obj\Debug\net5.0\BusquedaBinaria.AssemblyInfoInputs.cache
+E:\BusquedaBinaria\BusquedaBinaria\obj\Debug\net5.0\BusquedaBinaria.AssemblyInfo.cs
+E:\BusquedaBinaria\BusquedaBinaria\obj\Debug\net5.0\BusquedaBinaria.csproj.CoreCompileInputs.cache
+E:\BusquedaBinaria\BusquedaBinaria\obj\Debug\net5.0\BusquedaBinaria.dll
+E:\BusquedaBinaria\BusquedaBinaria\obj\Debug\net5.0\ref\BusquedaBinaria.dll
+E:\BusquedaBinaria\BusquedaBinaria\obj\Debug\net5.0\BusquedaBinaria.pdb
+E:\BusquedaBinaria\BusquedaBinaria\obj\Debug\net5.0\BusquedaBinaria.genruntimeconfig.cache
