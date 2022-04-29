@@ -37,7 +37,7 @@ namespace BusquedaBinaria
                 Console.WriteLine();
             }
 
-            Console.WriteLine("Ingrese el valor a buscar: ");
+            Console.WriteLine("Ingrese el valor a buscar");
             int valorbuscado = int.Parse(Console.ReadLine());
 
             int final = arreglo.Length - 1;
