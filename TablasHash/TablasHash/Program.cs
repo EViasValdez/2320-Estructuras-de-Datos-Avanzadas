@@ -9,18 +9,18 @@ namespace TablasHash
         {
             Hashtable tb = new Hashtable();
 
-            tb.Add(1, "Jalisco");
-            tb.Add(2, "Mexico");
-            tb.Add(3, "Veracruz");
-            tb.Add(4, "Chiapas");
-            tb.Add(5, "Guerrero");
+            tb.Add (1, "Jalisco");
+            tb.Add (2, "Mexico");
+            tb.Add (3, "Veracruz");
+            tb.Add (4, "Chiapas");
+            tb.Add (5, "Guerrero");
 
             foreach (DictionaryEntry estados in tb)
             {
                 Console.WriteLine(estados.Key + " " + estados.Value);
             }
 
-            tb.Add(6, "Guerrero");
+            tb.Add (6, "Guerrero");
             Console.WriteLine("-----------------------------------");
             foreach (DictionaryEntry estados in tb)
             {
@@ -62,7 +62,7 @@ namespace TablasHash
 
                 if (tb.Contains(valorBuscado))
                 {
-                    Console.WriteLine("El valo r" + valorBuscado + " existe en la tabla");
+                    Console.WriteLine("El valor " + valorBuscado + " existe en la tabla");
                 }
                 else
                 {
