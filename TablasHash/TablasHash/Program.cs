@@ -62,11 +62,11 @@ namespace TablasHash
 
                 if (tb.Contains(valorBuscado))
                 {
-                    Console.WriteLine("El valor" + valorBuscado + "existe en la tabla");
+                    Console.WriteLine("El valo r" + valorBuscado + " existe en la tabla");
                 }
                 else
                 {
-                    Console.WriteLine("El valor" + valorBuscado + "no existe en la tabla");
+                    Console.WriteLine("El valor " + valorBuscado + " no existe en la tabla");
                 }
 
             }
@@ -86,7 +86,7 @@ namespace TablasHash
 
                     if (encuentra)
                     {
-                        Console.WriteLine("El valor" + valorBuscado + " no existe en la tabla");
+                        Console.WriteLine("El valor " + valorBuscado + " no existe en la tabla");
                     }
 
                 }
