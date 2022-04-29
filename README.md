@@ -14,6 +14,7 @@ Descripcion todavia por ser hecha.
 
 <!----Directorio con ubicacion de archivos---->
 # Directorio de archivos
+## ● Unidad 1 ●
 ###### ArbolBinarioArray - 08/05/20
 (ArbolBinarioArray/ArbolBinarioArray/bin/Debug/net5.0/ref/ArbolBinario2.dll, 
 ArbolBinarioArray/ArbolBinarioArray/bin/Debug/net5.0/ArbolBinarioArray.deps.json, 
@@ -75,7 +76,8 @@ ArbolBinario2/ArbolBinario2/obj/project.nuget.cache
 ArbolBinario2/ArbolBinario2/ArbolBinario2.csproj, 
 ArbolBinario2/ArbolBinario2/Program.cs, 
 ArbolBinario2/ArbolBinario2.sln)
-<!----Separador---->
+
+## ● Unidad 2 ●
 ###### Apli - 24/06/20
 (Apli/Apli/bin/Debug/net5.0/ref/Apli.dll, 
 Apli/Apli/bin/Debug/net5.0/Apli.deps.json, 
@@ -104,7 +106,8 @@ Apli/Apli/obj/project.assets.json,
 Apli/Apli/obj/project.nuget.cache, 
 Apli/Apli/Apli.csproj, 
 Apli/Apli/Program.cs)
-<!----Separador---->
+
+## ● Unidad 3 ●
 ###### BusquedaSecuencial - 03/07/20
 (BusquedaSecuencial/BusquedaSecuencial/bin/Debug/net5.0/ref/BusquedaSecuencial.dll, 
 BusquedaSecuencial/BusquedaSecuencial/bin/Debug/net5.0/BusquedaSecuencial.deps.json, 
