@@ -22,7 +22,7 @@ namespace BusquedaSecuencial
 
             }
 
-            Console.WriteLine("Ingrese el elemento a buscar: ");
+            Console.WriteLine("Ingrese el elemento a buscar");
             int valor = int.Parse(Console.ReadLine());
             int cont = 0;
             bool res = false;
@@ -31,7 +31,7 @@ namespace BusquedaSecuencial
             {
                 if (a == valor)
                 {
-                    Console.WriteLine("El valor buscado se encuentrea en el indice " + cont);
+                    Console.WriteLine("El valor buscado se encuentra en el indice " + cont);
                 }
                 else
                 {
@@ -52,19 +52,20 @@ namespace BusquedaSecuencial
         }
         public static void busquedaListas()
         {
-            List<string> list = new List<string>();
+            List<string> list = new List <string>();
 
-            list.Add("Juan");
-            list.Add("Francisco");
-            list.Add("Johana");
-            list.Add("Alexis");
-            list.Add("Johan");
-            list.Add("Luis");
-            list.Add("Andres");
-            list.Add("Rogelio");
+            list.Add ("Juan");
+            list.Add ("Francisco");
+            list.Add ("Johana");
+            list.Add ("Alexis");
+            list.Add ("Johan");
+            list.Add ("Luis");
+            list.Add ("Andres");
+            list.Add ("Rogelio");
 
             Console.WriteLine("Ingrese el valor a buscar");
             string valorbuscado = Console.ReadLine();
+
             int cont = 0;
             bool res = false;
 
@@ -90,9 +91,9 @@ namespace BusquedaSecuencial
         {
             List<Listas> objPersona = new List<Listas>();
 
-            objPersona.Add(new Listas() { id = 1, nombre = "Juan", apellidopaterno = "Hernandez", apellidomaterno = "Velazquez"});
-            objPersona.Add(new Listas() { id = 2, nombre = "Rogelio", apellidopaterno = "Sanchez", apellidomaterno = "Hernanadez" });
-            objPersona.Add(new Listas() { id = 3, nombre = "Manuel", apellidopaterno = "Alvarez", apellidomaterno = "Noh" });
+            objPersona.Add (new Listas() { id = 1, nombre = "Juan", apellidopaterno = "Hernandez", apellidomaterno = "Velazquez"});
+            objPersona.Add (new Listas() { id = 2, nombre = "Rogelio", apellidopaterno = "Sanchez", apellidomaterno = "Hernanadez" });
+            objPersona.Add (new Listas() { id = 3, nombre = "Manuel", apellidopaterno = "Alvarez", apellidomaterno = "Noh" });
 
             foreach (Listas c in objPersona)
             {
