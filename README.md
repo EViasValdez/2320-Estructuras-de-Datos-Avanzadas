@@ -75,4 +75,13 @@ ArbolBinario2/ArbolBinario2/obj/project.nuget.cache
 ArbolBinario2/ArbolBinario2/ArbolBinario2.csproj, 
 ArbolBinario2/ArbolBinario2/Program.cs, 
 ArbolBinario2/ArbolBinario2.sln)
+
+<!--
+Todavia faltan de agregar los siguientes archivos:
+BusquedaBinaria - 15/07/20
+BusquedaSecuencial - 03/07/20
+TablasHash - 24/07/20
+Apli - 24/06/20
+-->
+
 <!----Separador del direrctorio con ubicacion de archivos---->
