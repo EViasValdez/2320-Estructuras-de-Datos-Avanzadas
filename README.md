@@ -13,6 +13,7 @@ Descripcion todavia por ser hecha.
 <!----Separador de las notas---->
 
 <!----Directorio con ubicacion de archivos---->
+# Directorio de archivos
 ###### ArbolBinarioArray - 08/05/20
 (ArbolBinarioArray/ArbolBinarioArray/bin/Debug/net5.0/ref/ArbolBinario2.dll, 
 ArbolBinarioArray/ArbolBinarioArray/bin/Debug/net5.0/ArbolBinarioArray.deps.json, 
