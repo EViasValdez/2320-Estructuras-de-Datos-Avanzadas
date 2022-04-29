@@ -14,6 +14,7 @@ namespace BusquedaSecuencial
         public static void busquedaEntero()
         {
             int[] arrayCont = new int[10];
+            
             for (int i = 0; i < arrayCont.Length; i++)
             {
 
@@ -24,6 +25,7 @@ namespace BusquedaSecuencial
 
             Console.WriteLine("Ingrese el elemento a buscar");
             int valor = int.Parse(Console.ReadLine());
+
             int cont = 0;
             bool res = false;
 
@@ -102,6 +104,7 @@ namespace BusquedaSecuencial
 
             Console.WriteLine("Ingrese el dato a buscar: ");
             string valorbuscado = Console.ReadLine();
+
             bool resp = false;
 
             foreach (Listas a in objPersona)
