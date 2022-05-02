@@ -1,15 +1,15 @@
-# Estructuras De Datos Avanzadas
+# Estructuras de datos avanzadas
 
 <!----Descripcion---->
-Descripcion todavia por ser hecha.
+Tomo para mi un poco mas de tiempo para crear este repositorio.
 <!----Separador de la descripcion ---->
 
 <!----Notas---->
 **Notas**
 
-**- No he puesto todavia una fecha exacta de creacion de algunos trabajos.**
+**- Ya logre poner mas trabajos al repositorio, esto despues de buscar algunos documentos diferentes partes.**
 
-**- Tambien ando viendo otros trabajos que no pude realizar.**
+**- Al igual como los proyectos de programacion orientada a objetos los trabajos fueron pasados de version de NET.**
 <!----Separador de las notas---->
 
 <!----Directorio con ubicacion de archivos---->
