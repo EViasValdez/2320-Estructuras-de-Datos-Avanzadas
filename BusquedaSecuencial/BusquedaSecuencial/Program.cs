@@ -13,7 +13,7 @@ namespace BusquedaSecuencial
 
         public static void busquedaEntero()
         {
-            int[] arrayCont = new int[10];
+            int [] arrayCont = new int [10];
             
             for (int i = 0; i < arrayCont.Length; i++)
             {
