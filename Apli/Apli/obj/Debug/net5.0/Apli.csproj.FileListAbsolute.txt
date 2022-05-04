@@ -3,7 +3,6 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\A
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\bin\Debug\net5.0\Apli.runtimeconfig.json
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\bin\Debug\net5.0\Apli.runtimeconfig.dev.json
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\bin\Debug\net5.0\Apli.dll
-D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\bin\Debug\net5.0\ref\Apli.dll
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\bin\Debug\net5.0\Apli.pdb
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\obj\Debug\net5.0\Apli.csproj.AssemblyReference.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\obj\Debug\net5.0\Apli.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,3 +13,4 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\A
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\obj\Debug\net5.0\ref\Apli.dll
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\obj\Debug\net5.0\Apli.pdb
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\obj\Debug\net5.0\Apli.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\obj\Debug\net5.0\refint\Apli.dll

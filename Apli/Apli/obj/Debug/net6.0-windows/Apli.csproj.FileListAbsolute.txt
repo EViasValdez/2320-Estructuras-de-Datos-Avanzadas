@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\bin\Debug\net6.0-windows\Apli.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\bin\Debug\net6.0-windows\Apli.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\bin\Debug\net6.0-windows\Apli.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\bin\Debug\net6.0-windows\Apli.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\bin\Debug\net6.0-windows\Apli.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\obj\Debug\net6.0-windows\Apli.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\obj\Debug\net6.0-windows\Apli.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\obj\Debug\net6.0-windows\Apli.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\obj\Debug\net6.0-windows\Apli.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\obj\Debug\net6.0-windows\Apli.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\obj\Debug\net6.0-windows\Apli.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\obj\Debug\net6.0-windows\refint\Apli.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\obj\Debug\net6.0-windows\Apli.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\obj\Debug\net6.0-windows\Apli.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Apli\Apli\obj\Debug\net6.0-windows\ref\Apli.dll
