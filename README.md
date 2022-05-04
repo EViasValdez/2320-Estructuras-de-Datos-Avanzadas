@@ -42,7 +42,7 @@ Apli/Apli/Apli.csproj,
 Apli/Apli/Program.cs, 
 Apli/Apli.sln)
 
-## ● Unidad 3 ●
+## ● Unidad 2 ●
 ###### BusquedaSecuencial - 03/07/20
 (BusquedaSecuencial/BusquedaSecuencial/bin/Debug/net6.0-windows/BusquedaSecuencial.deps.json, 
 BusquedaSecuencial/BusquedaSecuencial/bin/Debug/net6.0-windows/BusquedaSecuencial.dll, 
