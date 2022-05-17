@@ -51,7 +51,7 @@ namespace BusquedaSecuencial
         }
         public static void busquedaListas()
         {
-            List<string> list = new List<string>();
+            List <string> list = new List<string>();
 
             list.Add ("Juan");
             list.Add ("Francisco");
@@ -86,7 +86,7 @@ namespace BusquedaSecuencial
 
         public static void buscarObjeto()
         {
-            List<Listas> objPersona = new List<Listas>();
+            List <Listas> objPersona = new List<Listas>();
 
             objPersona.Add (new Listas(){id = 1, nombre = "Juan", apellidopaterno = "Hernandez", apellidomaterno = "Velazquez"});
             objPersona.Add (new Listas(){id = 2, nombre = "Rogelio", apellidopaterno = "Sanchez", apellidomaterno = "Hernanadez" });
