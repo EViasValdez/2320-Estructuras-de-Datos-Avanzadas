@@ -15,32 +15,7 @@ Tomo para mi un poco mas de tiempo para crear este repositorio.
 <!----Directorio con ubicacion de archivos---->
 # Directorio de archivos
 ## ● Unidad 1 ●
-###### ArbolBinarioArray - 08/05/20
-(Apli/Apli/bin/Debug/net6.0-windows/Apli.deps.json, 
-Apli/Apli/bin/Debug/net6.0-windows/Apli.dll, 
-Apli/Apli/bin/Debug/net6.0-windows/Apli.exe, 
-Apli/Apli/bin/Debug/net6.0-windows/Apli.pdb, 
-Apli/Apli/bin/Debug/net6.0-windows/Apli.runtimeconfig.json, 
-Apli/Apli/obj/Debug/net6.0-windows/ref/Apli.dll, 
-Apli/Apli/obj/Debug/net6.0-windows/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs, 
-Apli/Apli/obj/Debug/net6.0-windows/Apli.AssemblyInfo.cs, 
-Apli/Apli/obj/Debug/net6.0-windows/Apli.AssemblyInfoInputs.cache, 
-Apli/Apli/obj/Debug/net6.0-windows/Apli.GeneratedMSBuildEditorConfig.editorconfig, 
-Apli/Apli/obj/Debug/net6.0-windows/Apli.assets.cache, 
-Apli/Apli/obj/Debug/net6.0-windows/Apli.csproj.AssemblyReference.cache, 
-Apli/Apli/obj/Debug/net6.0-windows/Apli.csproj.FileListAbsolute.txt, 
-Apli/Apli/obj/Debug/net6.0-windows/Apli.dll, 
-Apli/Apli/obj/Debug/net6.0-windows/Apli.genruntimeconfig.cache, 
-Apli/Apli/obj/Debug/net6.0-windows/Apli.pdb, 
-Apli/Apli/obj/Debug/net6.0-windows/apphost.exe, 
-Apli/Apli/obj/Apli.csproj.nuget.dgspec.json, 
-Apli/Apli/obj/Apli.csproj.nuget.g.props, 
-Apli/Apli/obj/Apli.csproj.nuget.g.targets, 
-Apli/Apli/obj/project.assets.json, 
-Apli/Apli/obj/project.nuget.cache, 
-Apli/Apli/Apli.csproj, 
-Apli/Apli/Program.cs, 
-Apli/Apli.sln)
+###### N/A
 
 ## ● Unidad 2 ●
 ###### BusquedaSecuencial - 03/07/20
