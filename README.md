@@ -10,6 +10,8 @@ Tomo para mi un poco mas de tiempo para crear este repositorio.
 **- Ya logre poner mas trabajos al repositorio, esto despues de buscar algunos documentos diferentes partes.**
 
 **- Al igual como los proyectos de programacion orientada a objetos los trabajos fueron pasados de version de NET.**
+
+**- El proyecto "Apli" era unicamente un proyecto vacio que lo termine eliminando.**
 <!----Separador de las notas---->
 
 <!----Directorio con ubicacion de archivos---->
