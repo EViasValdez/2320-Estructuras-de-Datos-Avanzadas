@@ -52,7 +52,7 @@ namespace TablasHash
             Console.WriteLine("1. Buscar elemento con Id");
             Console.WriteLine("2. Buscar elemento con valor");
             Console.WriteLine("3. Valor indice");
-            Console.WriteLine("Ingrese una opcion");
+            Console.WriteLine("Ingrese una opción");
             int tipo = int.Parse(Console.ReadLine());
 
             if (tipo == 1)

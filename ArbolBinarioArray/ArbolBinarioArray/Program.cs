@@ -40,7 +40,7 @@ namespace ArbolBiarioArray
         }
         public static void llenar()
         {
-            Console.WriteLine("Ingrese el valor del nodo raiz:");
+            Console.WriteLine("Ingrese el valor del nodo raíz:");
             int raiz = int.Parse(Console.ReadLine());
 
             array1 [0] = raiz;
@@ -220,17 +220,17 @@ namespace ArbolBiarioArray
             {
                 if (valor == 1)
                 {
-                    Console.WriteLine("¿Contine relacion a la izquierda? S/N");
+                    Console.WriteLine("¿Contiene relación a la izquierda? S/N");
                 }
                 else if (valor == 2)
                 {
-                    Console.WriteLine("¿Contine relacion a la Derecha? S/N");
+                    Console.WriteLine("¿Contiene relación a la Derecha? S/N");
                 }
 
                 resp = Console.ReadLine();
                 if ((resp != "S" && resp != "N"))
                 {
-                    Console.WriteLine("Esa opcion no es valida");
+                    Console.WriteLine("Esa opción no es valida");
                 }
             } while (resp != "S" && resp != "N");
             return resp;
@@ -388,7 +388,7 @@ namespace ArbolBiarioArray
 
                 do
                 {
-                    Console.WriteLine("Indique la posicion del nodo a eliminar");
+                    Console.WriteLine("Indique la posición del nodo a eliminar");
                     nodoEliminar = int.Parse (Console.ReadLine());
 
                     if (nivel== 1 && (nodoEliminar > 0 || nodoEliminar < 0 ))
@@ -475,7 +475,7 @@ namespace ArbolBiarioArray
                         valor = valor + array1 [i] + "   |" + "   ";
                     }
                 }
-                Console.WriteLine(posicion + "Posicion");
+                Console.WriteLine(posicion + "Posición");
                 Console.WriteLine(valor + "Valor");
             }
             else if (nivel == 2)
@@ -488,7 +488,7 @@ namespace ArbolBiarioArray
                         valor = valor + array2 [i] + "   |  ";
                     }
                 }
-                Console.WriteLine(posicion + "Posicion");
+                Console.WriteLine(posicion + "Posición");
                 Console.WriteLine(valor + "Valor");
             }
             else if (nivel == 3)
@@ -501,7 +501,7 @@ namespace ArbolBiarioArray
                         valor = valor + array3 [i] + "   |   ";
                     }
                 }
-                Console.WriteLine(posicion + "Posicion");
+                Console.WriteLine(posicion + "Posición");
                 Console.WriteLine(valor + "Valor");
             }
             else if (nivel == 4)
@@ -514,7 +514,7 @@ namespace ArbolBiarioArray
                         valor = valor + array4 [i] + "   |   ";
                     }
                 }
-                Console.WriteLine(posicion + "Posicion");
+                Console.WriteLine(posicion + "Posición");
                 Console.WriteLine(valor + "Valor");
             }
         }

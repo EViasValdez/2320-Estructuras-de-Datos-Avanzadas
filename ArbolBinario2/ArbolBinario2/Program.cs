@@ -6,7 +6,7 @@ namespace ArbolBinario2
     {
         static void Main(string[] args)
         {
-            Console.Write("Ingrese el valor del nodo raiz");
+            Console.Write("Ingrese el valor del nodo raíz");
 			int raiz = int.Parse(Console.ReadLine());
 
       		int [] array1 = new int [0];
@@ -18,7 +18,7 @@ namespace ArbolBinario2
             
 			do
 			{
-				Console.WriteLine("¿Contiene relacion a la izquierda? S/N");
+				Console.WriteLine("¿Contiene relación a la izquierda? S/N");
 				resp = Console.ReadLine();
 			} while (resp != "S" && resp != "N");
 			
@@ -30,7 +30,7 @@ namespace ArbolBinario2
 			
 				do
 				{
-					Console.WriteLine("¿Contiene relacion a la izquierda? S/N");
+					Console.WriteLine("¿Contiene relación a la izquierda? S/N");
 					resp = Console.ReadLine();
 				} while (resp != "S" && resp != "N");
 			
@@ -48,7 +48,7 @@ namespace ArbolBinario2
 				{
 					do
 					{
-						Console.WriteLine("¿Contiene relacion a la derecha? S/N");
+						Console.WriteLine("¿Contiene relación a la derecha? S/N");
 						resp = Console.ReadLine();
 					} while (resp != "S" && resp != "N");
 
@@ -66,7 +66,7 @@ namespace ArbolBinario2
 			{
 				do
 				{
-					Console.WriteLine("¿Contiene relacion a la derecha? S/N: ");
+					Console.WriteLine("¿Contiene relación a la derecha? S/N: ");
 					resp = Console.ReadLine();
 				} while (resp != "S" && resp != "N");
 			
