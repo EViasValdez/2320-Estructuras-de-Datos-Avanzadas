@@ -1,20 +1,20 @@
 # Estructuras de datos avanzadas
 
-<!----Descripcion---->
+<!----Descripción---->
 Tomo para mi un poco mas de tiempo para crear este repositorio.
-<!----Separador de la descripcion ---->
+<!----Separador de la descripción ---->
 
 <!----Notas---->
 **Notas**
 
-**- Ya logre poner mas trabajos al repositorio, esto despues de buscar algunos documentos diferentes partes.**
+**- Ya logre poner mas trabajos al repositorio, esto después de buscar algunos documentos diferentes partes.**
 
-**- Al igual como los proyectos de programacion orientada a objetos los trabajos fueron pasados de version de NET.**
+**- Al igual como los proyectos de programación orientada a objetos los trabajos fueron pasados de version de NET.**
 
-**- El proyecto "Apli" era unicamente un proyecto vacio que lo termine eliminando.**
+**- El proyecto "Apli" era unicamente un proyecto vació que lo termine eliminando.**
 <!----Separador de las notas---->
 
-<!----Directorio con ubicacion de archivos---->
+<!----Directorio con ubicación de archivos---->
 # Directorio de archivos
 ## ● Unidad 1 ●
 ###### N/A
@@ -107,4 +107,4 @@ TablasHash/TablasHash/obj/project.nuget.cache,
 TablasHash/TablasHash/Program.cs, 
 TablasHash/TablasHash/TablasHash.csproj, 
 TablasHash/TablasHash.sln)
-<!----Separador del direrctorio con ubicacion de archivos---->
+<!----Separador del directorio con ubicación de archivos---->
