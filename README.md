@@ -1,7 +1,7 @@
 # Estructuras de datos avanzadas
 
 <!----Descripción---->
-Tomo para mi un poco mas de tiempo para crear este repositorio.
+Tomo un poco mas de tiempo para mi para crear este repositorio.
 <!----Separador de la descripción ---->
 
 <!----Notas---->
@@ -11,7 +11,7 @@ Tomo para mi un poco mas de tiempo para crear este repositorio.
 
 **- Al igual como los proyectos de programación orientada a objetos los trabajos fueron pasados de version de NET.**
 
-**- El proyecto "Apli" era unicamente un proyecto vació que lo termine eliminando.**
+**- El proyecto "Apli" era unicamente un proyecto vació que lo termine eliminando, asi que no tenia motivo para estar ahi.**
 <!----Separador de las notas---->
 
 <!----Directorio con ubicación de archivos---->
