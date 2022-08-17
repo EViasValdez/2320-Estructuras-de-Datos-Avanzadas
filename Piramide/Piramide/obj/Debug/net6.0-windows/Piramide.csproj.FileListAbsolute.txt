@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Estructuras-De-Datos-Avanzadas\Piramide\Piramide\obj\Debug\net6.0-windows\Piramide.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Estructuras-De-Datos-Avanzadas\Piramide\Piramide\obj\Debug\net6.0-windows\Piramide.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Estructuras-De-Datos-Avanzadas\Piramide\Piramide\obj\Debug\net6.0-windows\Piramide.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Estructuras-De-Datos-Avanzadas\Piramide\Piramide\obj\Debug\net6.0-windows\Piramide.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Estructuras-De-Datos-Avanzadas\Piramide\Piramide\obj\Debug\net6.0-windows\Piramide.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Estructuras-De-Datos-Avanzadas\Piramide\Piramide\bin\Debug\net6.0-windows\Piramide.exe
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Estructuras-De-Datos-Avanzadas\Piramide\Piramide\bin\Debug\net6.0-windows\Piramide.deps.json
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Estructuras-De-Datos-Avanzadas\Piramide\Piramide\bin\Debug\net6.0-windows\Piramide.runtimeconfig.json
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Estructuras-De-Datos-Avanzadas\Piramide\Piramide\bin\Debug\net6.0-windows\Piramide.dll
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Estructuras-De-Datos-Avanzadas\Piramide\Piramide\bin\Debug\net6.0-windows\Piramide.pdb
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Estructuras-De-Datos-Avanzadas\Piramide\Piramide\obj\Debug\net6.0-windows\Piramide.dll
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Estructuras-De-Datos-Avanzadas\Piramide\Piramide\obj\Debug\net6.0-windows\refint\Piramide.dll
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Estructuras-De-Datos-Avanzadas\Piramide\Piramide\obj\Debug\net6.0-windows\Piramide.pdb
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Estructuras-De-Datos-Avanzadas\Piramide\Piramide\obj\Debug\net6.0-windows\Piramide.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Descargas\GitHub\2320-Estructuras-De-Datos-Avanzadas\Piramide\Piramide\obj\Debug\net6.0-windows\ref\Piramide.dll
