@@ -20,7 +20,7 @@ namespace ArbolBiarioArray
             imprimir();
             eliminar();
             imprimir();
-            
+
             Console.ReadKey();
         }
         public static void llenarDefault()
@@ -464,7 +464,7 @@ namespace ArbolBiarioArray
         {
             string valor = "  |  ";
             string posicion = "  |  ";
-            
+
             if (nivel == 1)
             {
                 for (int i = 0; i < array1.Length; i++)

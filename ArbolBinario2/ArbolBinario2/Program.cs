@@ -12,10 +12,10 @@ namespace ArbolBinario2
       		int [] array1 = new int [0];
       		int [] array2 = new int [0];
       		int [] array3 = new int [0];
-            
+
 			string resp;
 			int nodo;
-            
+
 			do
 			{
 				Console.WriteLine("¿Contiene relación a la izquierda? S/N");

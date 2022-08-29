@@ -47,7 +47,7 @@ namespace BusquedaSecuencial
         }
         public static void busquedaString()
         {
-        
+            
         }
         public static void busquedaListas()
         {

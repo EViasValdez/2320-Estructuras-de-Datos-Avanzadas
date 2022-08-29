@@ -27,8 +27,7 @@ namespace Registros
             bool confirmar, busqueda = false;
             string sn;
 
-            
-            switch (opcion){
+            switch (opcion) {
             case 1:
                 Console.WriteLine("Dar de alta a un auto");
                 
@@ -43,7 +42,7 @@ namespace Registros
 
                     confirmar = true;
 
-                    if (sn.ToLower().Equals("no")){
+                    if (sn.ToLower().Equals("no")) {
                         confirmar = false;
                     }
                 } while (confirmar);
