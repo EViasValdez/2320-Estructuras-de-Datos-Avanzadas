@@ -17,7 +17,65 @@ Tomo un poco mas de tiempo para mi para crear este repositorio, especialmente de
 <!----Directorio con ubicación de archivos---->
 # Directorio de archivos
 ## ● Unidad 1 ●
-###### N/A
+###### ArbolBinarioArray - 05/06/20
+(ArbolBinarioArray/ArbolBinarioArray/bin/Debug/net6.0-windows/ArbolBinarioArray.deps.json, 
+ArbolBinarioArray/ArbolBinarioArray/bin/Debug/net6.0-windows/ArbolBinarioArray.dll, 
+ArbolBinarioArray/ArbolBinarioArray/bin/Debug/net6.0-windows/ArbolBinarioArray.exe, 
+ArbolBinarioArray/ArbolBinarioArray/bin/Debug/net6.0-windows/ArbolBinarioArray.pdb, 
+ArbolBinarioArray/ArbolBinarioArray/bin/Debug/net6.0-windows/ArbolBinarioArray.runtimeconfig.json, 
+ArbolBinarioArray/ArbolBinarioArray/obj/Debug/net6.0-windows/ref/ArbolBinarioArray.dll, 
+ArbolBinarioArray/ArbolBinarioArray/obj/Debug/net6.0-windows/refint/ArbolBinarioArray.dll, 
+ArbolBinarioArray/ArbolBinarioArray/obj/Debug/net6.0-windows/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs, 
+ArbolBinarioArray/ArbolBinarioArray/obj/Debug/net6.0-windows/ArbolBinarioArray.AssemblyInfo.cs, 
+ArbolBinarioArray/ArbolBinarioArray/obj/Debug/net6.0-windows/ArbolBinarioArray.AssemblyInfoInputs.cache, 
+ArbolBinarioArray/ArbolBinarioArray/obj/Debug/net6.0-windows/ArbolBinarioArray.GeneratedMSBuildEditorConfig.editorconfig, 
+ArbolBinarioArray/ArbolBinarioArray/obj/Debug/net6.0-windows/ArbolBinarioArray.assets.cache, 
+ArbolBinarioArray/ArbolBinarioArray/obj/Debug/net6.0-windows/ArbolBinarioArray.csproj.AssemblyReference.cache, 
+ArbolBinarioArray/ArbolBinarioArray/obj/Debug/net6.0-windows/ArbolBinarioArray.csproj.CoreCompileInputs.cache, 
+ArbolBinarioArray/ArbolBinarioArray/obj/Debug/net6.0-windows/ArbolBinarioArray.csproj.FileListAbsolute.txt, 
+ArbolBinarioArray/ArbolBinarioArray/obj/Debug/net6.0-windows/ArbolBinarioArray.dll, 
+ArbolBinarioArray/ArbolBinarioArray/obj/Debug/net6.0-windows/ArbolBinarioArray.genruntimeconfig.cache, 
+ArbolBinarioArray/ArbolBinarioArray/obj/Debug/net6.0-windows/ArbolBinarioArray.pdb, 
+ArbolBinarioArray/ArbolBinarioArray/obj/Debug/net6.0-windows/apphost.exe, 
+ArbolBinarioArray/ArbolBinarioArray/obj/ArbolBinarioArray.csproj.nuget.cache, 
+ArbolBinarioArray/ArbolBinarioArray/obj/ArbolBinarioArray.csproj.nuget.dgspec.json, 
+ArbolBinarioArray/ArbolBinarioArray/obj/ArbolBinarioArray.csproj.nuget.g.props, 
+ArbolBinarioArray/ArbolBinarioArray/obj/ArbolBinarioArray.csproj.nuget.g.targets, 
+ArbolBinarioArray/ArbolBinarioArray/obj/project.assets.json, 
+ArbolBinarioArray/ArbolBinarioArray/obj/project.nuget.cache, 
+ArbolBinarioArray/ArbolBinarioArray/ArbolBinarioArray.csproj, 
+ArbolBinarioArray/ArbolBinarioArray/Program.cs, 
+ArbolBinarioArray/ArbolBinarioArray.sln)
+<!----Separador---->
+###### ArbolBinario2 - 05/06/20
+(ArbolBinario2/ArbolBinario2/bin/Debug/net6.0-windows/ArbolBinario2.deps.json, 
+ArbolBinario2/ArbolBinario2/bin/Debug/net6.0-windows/ArbolBinario2.dll, 
+ArbolBinario2/ArbolBinario2/bin/Debug/net6.0-windows/ArbolBinario2.exe, 
+ArbolBinario2/ArbolBinario2/bin/Debug/net6.0-windows/ArbolBinario2.pdb, 
+ArbolBinario2/ArbolBinario2/bin/Debug/net6.0-windows/ArbolBinario2.runtimeconfig.json, 
+ArbolBinario2/ArbolBinario2/obj/Debug/net6.0-windows/ref/ArbolBinario2.dll, 
+ArbolBinario2/ArbolBinario2/obj/Debug/net6.0-windows/refint/ArbolBinario2.dll, 
+ArbolBinario2/ArbolBinario2/obj/Debug/net6.0-windows/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs, 
+ArbolBinario2/ArbolBinario2/obj/Debug/net6.0-windows/ArbolBinario2.AssemblyInfo.cs, 
+ArbolBinario2/ArbolBinario2/obj/Debug/net6.0-windows/ArbolBinario2.AssemblyInfoInputs.cache, 
+ArbolBinario2/ArbolBinario2/obj/Debug/net6.0-windows/ArbolBinario2.GeneratedMSBuildEditorConfig.editorconfig, 
+ArbolBinario2/ArbolBinario2/obj/Debug/net6.0-windows/ArbolBinario2.assets.cache, 
+ArbolBinario2/ArbolBinario2/obj/Debug/net6.0-windows/ArbolBinario2.csproj.AssemblyReference.cache, 
+ArbolBinario2/ArbolBinario2/obj/Debug/net6.0-windows/ArbolBinario2.csproj.CoreCompileInputs.cache, 
+ArbolBinario2/ArbolBinario2/obj/Debug/net6.0-windows/ArbolBinario2.csproj.FileListAbsolute.txt, 
+ArbolBinario2/ArbolBinario2/obj/Debug/net6.0-windows/ArbolBinario2.dll, 
+ArbolBinario2/ArbolBinario2/obj/Debug/net6.0-windows/ArbolBinario2.genruntimeconfig.cache, 
+ArbolBinario2/ArbolBinario2/obj/Debug/net6.0-windows/ArbolBinario2.pdb, 
+ArbolBinario2/ArbolBinario2/obj/Debug/net6.0-windows/apphost.exe, 
+ArbolBinario2/ArbolBinario2/obj/ArbolBinario2.csproj.nuget.cache, 
+ArbolBinario2/ArbolBinario2/obj/ArbolBinario2.csproj.nuget.dgspec.json, 
+ArbolBinario2/ArbolBinario2/obj/ArbolBinario2.csproj.nuget.g.props, 
+ArbolBinario2/ArbolBinario2/obj/ArbolBinario2.csproj.nuget.g.targets, 
+ArbolBinario2/ArbolBinario2/obj/project.assets.json, 
+ArbolBinario2/ArbolBinario2/obj/project.nuget.cache, 
+ArbolBinario2/ArbolBinario2/ArbolBinario2.csproj, 
+ArbolBinario2/ArbolBinario2/Program.cs, 
+ArbolBinario2/ArbolBinario2.sln)
 
 ## ● Unidad 2 ●
 ###### BusquedaSecuencial - 03/07/20
@@ -108,3 +166,8 @@ TablasHash/TablasHash/Program.cs,
 TablasHash/TablasHash/TablasHash.csproj, 
 TablasHash/TablasHash.sln)
 <!----Separador del directorio con ubicación de archivos---->
+
+<!----
+###### ArbolBinarioArray - 24/07/20
+###### Registros - 24/07/20
+---->
