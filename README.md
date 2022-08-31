@@ -17,7 +17,7 @@ Tomo un poco mas de tiempo para mi para crear este repositorio, especialmente de
 <!----Directorio con ubicación de archivos---->
 # Directorio de archivos
 ## ● Unidad 1 ●
-###### ArbolBinarioArray - 05/06/20
+###### ArbolBinarioArray - 06/20
 (ArbolBinarioArray/ArbolBinarioArray/bin/Debug/net6.0-windows/ArbolBinarioArray.deps.json, 
 ArbolBinarioArray/ArbolBinarioArray/bin/Debug/net6.0-windows/ArbolBinarioArray.dll, 
 ArbolBinarioArray/ArbolBinarioArray/bin/Debug/net6.0-windows/ArbolBinarioArray.exe, 
@@ -47,7 +47,7 @@ ArbolBinarioArray/ArbolBinarioArray/ArbolBinarioArray.csproj,
 ArbolBinarioArray/ArbolBinarioArray/Program.cs, 
 ArbolBinarioArray/ArbolBinarioArray.sln)
 <!----Separador---->
-###### ArbolBinario2 - 05/06/20
+###### ArbolBinario2 - 06/20
 (ArbolBinario2/ArbolBinario2/bin/Debug/net6.0-windows/ArbolBinario2.deps.json, 
 ArbolBinario2/ArbolBinario2/bin/Debug/net6.0-windows/ArbolBinario2.dll, 
 ArbolBinario2/ArbolBinario2/bin/Debug/net6.0-windows/ArbolBinario2.exe, 
@@ -76,6 +76,36 @@ ArbolBinario2/ArbolBinario2/obj/project.nuget.cache,
 ArbolBinario2/ArbolBinario2/ArbolBinario2.csproj, 
 ArbolBinario2/ArbolBinario2/Program.cs, 
 ArbolBinario2/ArbolBinario2.sln)
+<!----Separador---->
+###### Registros - 06/20
+(Registros/Registros/bin/Debug/net6.0-windows/Registros.deps.json, 
+Registros/Registros/bin/Debug/net6.0-windows/Registros.dll, 
+Registros/Registros/bin/Debug/net6.0-windows/Registros.exe, 
+Registros/Registros/bin/Debug/net6.0-windows/Registros.pdb, 
+Registros/Registros/bin/Debug/net6.0-windows/Registros.runtimeconfig.json, 
+Registros/Registros/obj/Debug/net6.0-windows/ref/Registros.dll, 
+Registros/Registros/obj/Debug/net6.0-windows/refint/Registros.dll, 
+Registros/Registros/obj/Debug/net6.0-windows/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs, 
+Registros/Registros/obj/Debug/net6.0-windows/Registros.AssemblyInfo.cs, 
+Registros/Registros/obj/Debug/net6.0-windows/Registros.AssemblyInfoInputs.cache, 
+Registros/Registros/obj/Debug/net6.0-windows/Registros.GeneratedMSBuildEditorConfig.editorconfig, 
+Registros/Registros/obj/Debug/net6.0-windows/Registros.assets.cache, 
+Registros/Registros/obj/Debug/net6.0-windows/Registros.csproj.AssemblyReference.cache, 
+Registros/Registros/obj/Debug/net6.0-windows/Registros.csproj.CoreCompileInputs.cache, 
+Registros/Registros/obj/Debug/net6.0-windows/Registros.csproj.FileListAbsolute.txt, 
+Registros/Registros/obj/Debug/net6.0-windows/Registros.dll, 
+Registros/Registros/obj/Debug/net6.0-windows/Registros.genruntimeconfig.cache, 
+Registros/Registros/obj/Debug/net6.0-windows/Registros.pdb, 
+Registros/Registros/obj/Debug/net6.0-windows/apphost.exe, 
+Registros/Registros/obj/Registros.csproj.nuget.cache, 
+Registros/Registros/obj/Registros.csproj.nuget.dgspec.json, 
+Registros/Registros/obj/Registros.csproj.nuget.g.props, 
+Registros/Registros/obj/Registros.csproj.nuget.g.targets, 
+Registros/Registros/obj/project.assets.json, 
+Registros/Registros/obj/project.nuget.cache, 
+Registros/Registros/Registros.csproj, 
+Registros/Registros/Program.cs, 
+Registros/Registros.sln)
 
 ## ● Unidad 2 ●
 ###### BusquedaSecuencial - 03/07/20
