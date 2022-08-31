@@ -1,7 +1,7 @@
 # Estructuras de datos avanzadas
 
 <!----Descripción---->
-Tomo un poco mas de tiempo para mi para crear este repositorio.
+Tomo un poco mas de tiempo para mi para crear este repositorio, especialmente debido a que tuve que buscar los documentos originales.
 <!----Separador de la descripción ---->
 
 <!----Notas---->
