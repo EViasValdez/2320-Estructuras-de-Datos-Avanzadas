@@ -14,7 +14,7 @@ namespace Registros
         public string Tipo { get; set; }
         public string Precio { get; set; }
 
-        public void MostrarAuto(){
+        public void MostrarAuto() {
             List <Auto> ListaAuto = new List <Auto>();
 
             Console.WriteLine("Ingrese marca");

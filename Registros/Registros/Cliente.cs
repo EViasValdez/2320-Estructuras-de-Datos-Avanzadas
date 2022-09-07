@@ -13,7 +13,7 @@ namespace Registros
 		public string Telefono { get; set; }
 		public string Correo { get; set; }
 
-		public void MostrarCliente(){
+		public void MostrarCliente() {
 			List <Cliente> ListaCliente = new List <Cliente>();
 
 			Console.WriteLine("Ingrese nombre(s))");
