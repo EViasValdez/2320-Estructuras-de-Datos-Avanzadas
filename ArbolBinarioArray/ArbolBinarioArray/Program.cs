@@ -143,7 +143,6 @@ namespace ArbolBiarioArray
                             Guardar (2, 4, 5);
                             Console.WriteLine("El nodo llego a su limite");
                         }
-
                     }
                     // Temporal
                     resp = "N";
@@ -314,7 +313,6 @@ namespace ArbolBiarioArray
                     }
                 }
                 contador++;
-
             }
             foreach (int a in array4)
             {
