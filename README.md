@@ -7,7 +7,7 @@ Tomo un poco mas de tiempo para mi para crear este repositorio, especialmente de
 <!----Notas---->
 **Notas**
 
-**- Ya logre añadir mas trabajos al repositorio, esto después de buscar algunos documentos de diferentes partes.**
+**- Ya logre añadir mas trabajos al repositorio, esto después de buscar algunos documentos de otros directorios.**
 
 **- Al igual como los proyectos de programación orientada a objetos los trabajos fueron pasados de version de NET.**
 
