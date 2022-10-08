@@ -46,36 +46,6 @@ ArbolBinario2/ArbolBinario2/obj/project.nuget.cache,
 ArbolBinario2/ArbolBinario2/ArbolBinario2.csproj, 
 ArbolBinario2/ArbolBinario2/Program.cs, 
 ArbolBinario2/ArbolBinario2.sln)
-<!----Separador---->
-###### Registros - 06/20
-(Registros/Registros/bin/Debug/net6.0/Registros.deps.json, 
-Registros/Registros/bin/Debug/net6.0/Registros.dll, 
-Registros/Registros/bin/Debug/net6.0/Registros.exe, 
-Registros/Registros/bin/Debug/net6.0/Registros.pdb, 
-Registros/Registros/bin/Debug/net6.0/Registros.runtimeconfig.json, 
-Registros/Registros/obj/Debug/net6.0/ref/Registros.dll, 
-Registros/Registros/obj/Debug/net6.0/refint/Registros.dll, 
-Registros/Registros/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs, 
-Registros/Registros/obj/Debug/net6.0/Registros.AssemblyInfo.cs, 
-Registros/Registros/obj/Debug/net6.0/Registros.AssemblyInfoInputs.cache, 
-Registros/Registros/obj/Debug/net6.0/Registros.GeneratedMSBuildEditorConfig.editorconfig, 
-Registros/Registros/obj/Debug/net6.0/Registros.assets.cache, 
-Registros/Registros/obj/Debug/net6.0/Registros.csproj.AssemblyReference.cache, 
-Registros/Registros/obj/Debug/net6.0/Registros.csproj.CoreCompileInputs.cache, 
-Registros/Registros/obj/Debug/net6.0/Registros.csproj.FileListAbsolute.txt, 
-Registros/Registros/obj/Debug/net6.0/Registros.dll, 
-Registros/Registros/obj/Debug/net6.0/Registros.genruntimeconfig.cache, 
-Registros/Registros/obj/Debug/net6.0/Registros.pdb, 
-Registros/Registros/obj/Debug/net6.0/apphost.exe, 
-Registros/Registros/obj/Registros.csproj.nuget.cache, 
-Registros/Registros/obj/Registros.csproj.nuget.dgspec.json, 
-Registros/Registros/obj/Registros.csproj.nuget.g.props, 
-Registros/Registros/obj/Registros.csproj.nuget.g.targets, 
-Registros/Registros/obj/project.assets.json, 
-Registros/Registros/obj/project.nuget.cache, 
-Registros/Registros/Registros.csproj, 
-Registros/Registros/Program.cs, 
-Registros/Registros.sln)
 
 ## ● Unidad 2 ●
 ###### BusquedaSecuencial - 03/07/20
@@ -195,8 +165,37 @@ ArbolBinarioArray/ArbolBinarioArray/obj/project.nuget.cache,
 ArbolBinarioArray/ArbolBinarioArray/ArbolBinarioArray.csproj, 
 ArbolBinarioArray/ArbolBinarioArray/Program.cs, 
 ArbolBinarioArray/ArbolBinarioArray.sln)
+###### Registros - 24/07/20
+(Registros/Registros/bin/Debug/net6.0/Registros.deps.json, 
+Registros/Registros/bin/Debug/net6.0/Registros.dll, 
+Registros/Registros/bin/Debug/net6.0/Registros.exe, 
+Registros/Registros/bin/Debug/net6.0/Registros.pdb, 
+Registros/Registros/bin/Debug/net6.0/Registros.runtimeconfig.json, 
+Registros/Registros/obj/Debug/net6.0/ref/Registros.dll, 
+Registros/Registros/obj/Debug/net6.0/refint/Registros.dll, 
+Registros/Registros/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs, 
+Registros/Registros/obj/Debug/net6.0/Registros.AssemblyInfo.cs, 
+Registros/Registros/obj/Debug/net6.0/Registros.AssemblyInfoInputs.cache, 
+Registros/Registros/obj/Debug/net6.0/Registros.GeneratedMSBuildEditorConfig.editorconfig, 
+Registros/Registros/obj/Debug/net6.0/Registros.assets.cache, 
+Registros/Registros/obj/Debug/net6.0/Registros.csproj.AssemblyReference.cache, 
+Registros/Registros/obj/Debug/net6.0/Registros.csproj.CoreCompileInputs.cache, 
+Registros/Registros/obj/Debug/net6.0/Registros.csproj.FileListAbsolute.txt, 
+Registros/Registros/obj/Debug/net6.0/Registros.dll, 
+Registros/Registros/obj/Debug/net6.0/Registros.genruntimeconfig.cache, 
+Registros/Registros/obj/Debug/net6.0/Registros.pdb, 
+Registros/Registros/obj/Debug/net6.0/apphost.exe, 
+Registros/Registros/obj/Registros.csproj.nuget.cache, 
+Registros/Registros/obj/Registros.csproj.nuget.dgspec.json, 
+Registros/Registros/obj/Registros.csproj.nuget.g.props, 
+Registros/Registros/obj/Registros.csproj.nuget.g.targets, 
+Registros/Registros/obj/project.assets.json, 
+Registros/Registros/obj/project.nuget.cache, 
+Registros/Registros/Registros.csproj, 
+Registros/Registros/Program.cs, 
+Registros/Registros.sln)
 <!----Separador del directorio con ubicación de archivos---->
 
 <!----
-###### Registros - 24/07/20
+###### Registros - 
 ---->
