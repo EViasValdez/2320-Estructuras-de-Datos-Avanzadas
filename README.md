@@ -1,17 +1,17 @@
 # Estructuras de datos avanzadas
 
 <!----Descripción---->
-Tomo un poco mas de tiempo para mi para crear este repositorio, especialmente debido a que tuve que buscar los documentos originales.
+Tomo un poco más de tiempo para mí para crear este repositorio, especialmente debido a que tuve que buscar los documentos originales.
 <!----Separador de la descripción ---->
 
 <!----Notas---->
 **Notas**
 
-**- Ya logre añadir mas trabajos al repositorio, esto después de buscar algunos documentos de otros directorios.**
+**- Ya logre añadir más trabajos al repositorio, esto después de buscar algunos documentos de otros directorios.**
 
 **- Al igual como los proyectos de programación orientada a objetos los trabajos fueron pasados de version de NET.**
 
-**- El proyecto "Apli" era unicamente un proyecto vació que lo termine eliminando, asi que no tenia motivo para estar ahi.**
+**- El proyecto "Apli" era únicamente un proyecto vació que lo termine eliminando, así que no tenia motivo para estar ahí.**
 <!----Separador de las notas---->
 
 <!----Directorio con ubicación de archivos---->
