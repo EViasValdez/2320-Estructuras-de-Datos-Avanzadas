@@ -195,7 +195,3 @@ Registros/Registros/Registros.csproj,
 Registros/Registros/Program.cs, 
 Registros/Registros.sln)
 <!----Separador del directorio con ubicación de archivos---->
-
-<!----
-###### Registros - 
----->
