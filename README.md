@@ -15,7 +15,6 @@ Tomo un poco más de tiempo para mí para crear este repositorio, especialmente 
 <!----Separador de las notas---->
 
 <!----Directorio con ubicación de archivos---->
-
 # Directorio de archivos
 ## ● Unidad 1 ●
 ###### ArbolBinario2 - 06/20
