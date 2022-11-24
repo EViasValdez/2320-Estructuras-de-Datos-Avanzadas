@@ -17,7 +17,6 @@ Tomo un poco más de tiempo para mí para crear este repositorio, especialmente 
 <!----Directorio con ubicación de archivos---->
 
 # Directorio de archivos
-
 ## ● Unidad 1 ●
 ###### ArbolBinario2 - 06/20
 (ArbolBinario2/ArbolBinario2/bin/Debug/net6.0/ArbolBinario2.deps.json,
