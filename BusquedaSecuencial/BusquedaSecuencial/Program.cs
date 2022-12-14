@@ -7,11 +7,11 @@ namespace BusquedaSecuencial
     {
         static void Main(string[] args)
         {
-            buscarObjeto();
+            BuscarObjeto();
             Console.ReadKey();
         }
 
-        public static void busquedaEntero()
+        public static void BusquedaEntero()
         {
             int [] arrayCont = new int [10];
             
@@ -22,34 +22,30 @@ namespace BusquedaSecuencial
             }
 
             Console.WriteLine("Ingrese el elemento a buscar");
-            int valor = int.Parse(Console.ReadLine());
+            int Valor = int.Parse(Console.ReadLine());
 
-            int cont = 0;
-            bool res = false;
+            int Cont = 0;
+            bool Res = false;
 
             foreach (int a in arrayCont)
             {
-                if (a == valor)
+                if (a == Valor)
                 {
-                    Console.WriteLine("El valor buscado se encuentra en el indice " + cont);
+                    Console.WriteLine("El valor buscado se encuentra en el indice " + Cont);
                 }
                 else
                 {
                     Console.WriteLine("No se encuentra el elemento buscado");
                 }
-                cont++;
+                Cont++;
             }
-            if (res)
+            if (Res)
             {
                 Console.WriteLine("No se encuentra el elemento buscado");
             }
 
         }
-        public static void busquedaString()
-        {
-            
-        }
-        public static void busquedaListas()
+        public static void BusquedaListas()
         {
             List <string> list = new List<string>();
 
@@ -63,53 +59,53 @@ namespace BusquedaSecuencial
             list.Add ("Rogelio");
 
             Console.WriteLine("Ingrese el valor a buscar");
-            string valorbuscado = Console.ReadLine();
+            string ValorBuscado = Console.ReadLine();
 
-            int cont = 0;
-            bool res = false;
+            int Cont = 0;
+            bool Res = false;
 
             foreach (string b in list)
             {
-                if (b == valorbuscado)
+                if (b == ValorBuscado)
                 {
-                    Console.WriteLine("El valor se encuentra en el indice " + cont);
-                    res = true;
+                    Console.WriteLine("El valor se encuentra en el indice " + Cont);
+                    Res = true;
                 }
-                cont++;
+                Cont++;
 
-                if (res == false)
+                if (Res == false)
                 {
                     Console.WriteLine("No se encuentra el elemento buscado");
                 }
             }
         }
 
-        public static void buscarObjeto()
+        public static void BuscarObjeto()
         {
             List <Listas> objPersona = new List<Listas>();
 
-            objPersona.Add (new Listas(){id = 1, nombre = "Juan", apellidopaterno = "Hernandez", apellidomaterno = "Velazquez"});
-            objPersona.Add (new Listas(){id = 2, nombre = "Rogelio", apellidopaterno = "Sanchez", apellidomaterno = "Hernanadez" });
-            objPersona.Add (new Listas(){id = 3, nombre = "Manuel", apellidopaterno = "Alvarez", apellidomaterno = "Noh" });
+            objPersona.Add (new Listas(){Id = 1, Nombre = "Juan", ApellidoPaterno = "Hernandez", ApellidoMaterno = "Velazquez"});
+            objPersona.Add (new Listas(){Id = 2, Nombre = "Rogelio", ApellidoPaterno = "Sanchez", ApellidoMaterno = "Hernanadez" });
+            objPersona.Add (new Listas(){Id = 3, Nombre = "Manuel", ApellidoPaterno = "Alvarez", ApellidoMaterno = "Noh" });
 
             foreach (Listas c in objPersona)
             {
-                Console.WriteLine("Id: " + c.id + ", Nombre: " + c.nombre);
+                Console.WriteLine("Id: " + c.Id + ", Nombre: " + c.Nombre);
             }
 
             Console.WriteLine("Ingrese el dato a buscar: ");
-            string valorbuscado = Console.ReadLine();
+            string ValorBuscado = Console.ReadLine();
 
-            bool resp = false;
+            bool Resp = false;
 
             foreach (Listas a in objPersona)
             {
-                if (a.nombre == valorbuscado || a.apellidopaterno == valorbuscado || a.apellidomaterno == valorbuscado)
+                if (a.Nombre == ValorBuscado || a.ApellidoPaterno == ValorBuscado || a.ApellidoMaterno == ValorBuscado)
                 {
-                    Console.WriteLine("El valor buscado se encuentra con el id " + a.id);
-                    resp = true;
+                    Console.WriteLine("El valor buscado se encuentra con el id " + a.Id);
+                    Resp = true;
                 }
-                if (resp == false)
+                if (Resp == false)
                 {
                     Console.WriteLine("El valor no fue encontrado");
                 }

@@ -6,9 +6,9 @@ namespace BusquedaSecuencial
 {
     public class Listas
     {
-        public int id { get; set; }
-        public string nombre { get; set; }
-        public string apellidopaterno { get; set; }
-        public string apellidomaterno { get; set; }
+        public int Id { get; set; }
+        public string Nombre { get; set; }
+        public string ApellidoPaterno { get; set; }
+        public string ApellidoMaterno { get; set; }
     }
 }
