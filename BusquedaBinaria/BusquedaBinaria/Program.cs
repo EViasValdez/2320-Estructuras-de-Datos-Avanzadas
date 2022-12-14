@@ -8,30 +8,30 @@ namespace BusquedaBinaria
     {
         static void Main(string[] args)
         {
-            int [] arreglo = new int [10];
+            int [] Arreglo = new int [10];
 
-            for (int i = 0; i < arreglo.Length; i++)
+            for (int i = 0; i < Arreglo.Length; i++)
             {
                 Console.WriteLine("Ingrese el numero " + i + " para su almacenamiento");
-                arreglo[i] = int.Parse(Console.ReadLine());
+                Arreglo[i] = int.Parse(Console.ReadLine());
             }
 
-            int aux;
+            int Aux;
 
-            for (int i = 0; i < arreglo.Length; i++)
+            for (int i = 0; i < Arreglo.Length; i++)
             {
-                for (int j = 0; j < arreglo.Length - 1; j++)
+                for (int j = 0; j < Arreglo.Length - 1; j++)
                 {
-                    if (arreglo [j] > arreglo [j + 1])
+                    if (Arreglo [j] > Arreglo [j + 1])
                     {
-                        aux = arreglo [j];
-                        arreglo [j] = arreglo [j + 1];
-                        arreglo [j + 1] = aux;
+                        Aux = Arreglo [j];
+                        Arreglo [j] = Arreglo [j + 1];
+                        Arreglo [j + 1] = Aux;
                     }
                 }
             }
             Console.Clear();
-            foreach (int b in arreglo)
+            foreach (int b in Arreglo)
             {
                 Console.WriteLine();
             }
@@ -39,26 +39,26 @@ namespace BusquedaBinaria
             Console.WriteLine("Ingrese el valor a buscar");
             int valorbuscado = int.Parse(Console.ReadLine());
 
-            int final = arreglo.Length - 1;
-            int inicio = 0;
+            int Final = Arreglo.Length - 1;
+            int Inicio = 0;
             bool z = false;
-            int media;
+            int Media;
 
             do
             {
-                media = (inicio + final) / 2;
-                if (valorbuscado == arreglo [media])
+                Media = (Inicio + Final) / 2;
+                if (valorbuscado == Arreglo [Media])
                 {
-                    Console.WriteLine("El valor buscado se encuentra en el indice " + media);
+                    Console.WriteLine("El valor buscado se encuentra en el indice " + Media);
                     z = true;
                 }
-                else if (valorbuscado > arreglo [media])
+                else if (valorbuscado > Arreglo [Media])
                 {
-                    final = media - 1;
+                    Final = Media - 1;
                 }
-                else if (valorbuscado < arreglo [media])
+                else if (valorbuscado < Arreglo [Media])
                 {
-                    inicio = media + 1;
+                    Inicio = Media + 1;
                 }
             } while (z == false);
             Console.ReadKey();
