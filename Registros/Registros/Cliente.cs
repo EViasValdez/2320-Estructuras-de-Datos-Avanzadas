@@ -17,13 +17,13 @@ namespace Registros
 			List <Cliente> ListaCliente = new List <Cliente>();
 
 			Console.WriteLine("Ingrese nombre(s))");
-			string nombres = Console.ReadLine();
+			string Nombres = Console.ReadLine();
 			Console.WriteLine("Ingrese apellidos");
-			string apellidos = Console.ReadLine();
+			string Apellidos = Console.ReadLine();
 			Console.WriteLine("Ingrese telefono");
-			string telefono = Console.ReadLine();
+			string Telefono = Console.ReadLine();
 			Console.WriteLine("Ingrese correo");
-			string correo = Console.ReadLine();
+			string Correo = Console.ReadLine();
 		}
 	}
 }

@@ -22,12 +22,12 @@ namespace Registros
             Console.WriteLine("5. Dar de alta a un cliente");
             Console.WriteLine("6. Buscar cliente");
 
-            int opcion = int.Parse(Console.ReadLine());
+            int Opcion = int.Parse(Console.ReadLine());
 
-            bool confirmar, busqueda = false;
-            string sn;
+            bool Confirmar, Busqueda = false;
+            string SN;
 
-            switch (opcion) {
+            switch (Opcion) {
             case 1:
                 Console.WriteLine("Dar de alta a un auto");
                 
@@ -38,14 +38,14 @@ namespace Registros
 
                     Console.WriteLine("¿Desea agregar otro dato?");
                     Console.WriteLine("Si / No");
-                    sn = Console.ReadLine();
+                    SN = Console.ReadLine();
 
-                    confirmar = true;
+                    Confirmar = true;
 
-                    if (sn.ToLower().Equals("no")) {
-                        confirmar = false;
+                    if (SN.ToLower().Equals("no")) {
+                        Confirmar = false;
                     }
-                } while (confirmar);
+                } while (Confirmar);
             break;
 
             case 2:
@@ -70,14 +70,14 @@ namespace Registros
 
                     Console.WriteLine("¿Desea agregar otro dato?");
                     Console.WriteLine("Si / No");
-                    sn = Console.ReadLine();
+                    SN = Console.ReadLine();
 
-                    confirmar = true;
+                    Confirmar = true;
 
-                    if (sn.ToLower().Equals("no")) {
-                        confirmar = false;
+                    if (SN.ToLower().Equals("no")) {
+                        Confirmar = false;
                     }
-                } while (confirmar);
+                } while (Confirmar);
             break;
 
             case 6:
@@ -85,7 +85,7 @@ namespace Registros
             break;
 
             // Console.WriteLine("¿Desea realizar otra opcion?");
-            // sn = Console.ReadLine();
+            // SN = Console.ReadLine();
             }
         }
     }

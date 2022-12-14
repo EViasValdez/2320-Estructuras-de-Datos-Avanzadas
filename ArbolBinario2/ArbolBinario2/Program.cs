@@ -9,89 +9,89 @@ namespace ArbolBinario2
             Console.Write("Ingrese el valor del nodo raíz");
 			int raiz = int.Parse(Console.ReadLine());
 
-      		int [] array1 = new int [0];
-      		int [] array2 = new int [0];
-      		int [] array3 = new int [0];
+      		int [] Array1 = new int [0];
+      		int [] Array2 = new int [0];
+      		int [] Array3 = new int [0];
 
-			string resp;
-			int nodo;
+			string Resp;
+			int Nodo;
 
 			do
 			{
 				Console.WriteLine("¿Contiene relación a la izquierda? S/N");
-				resp = Console.ReadLine();
-			} while (resp != "S" && resp != "N");
+				Resp = Console.ReadLine();
+			} while (Resp != "S" && Resp != "N");
 			
-			if (resp == "S")
+			if (Resp == "S")
 			{
 				Console.WriteLine("Ingrese el valor del nodo izquierdo");
-				nodo = int.Parse(Console.ReadLine());
-				array2 [0] = nodo;
+				Nodo = int.Parse(Console.ReadLine());
+				Array2 [0] = Nodo;
 			
 				do
 				{
 					Console.WriteLine("¿Contiene relación a la izquierda? S/N");
-					resp = Console.ReadLine();
-				} while (resp != "S" && resp != "N");
+					Resp = Console.ReadLine();
+				} while (Resp != "S" && Resp != "N");
 			
-				if (resp == "S")
+				if (Resp == "S")
 				{
 					Console.WriteLine("Ingrese el valor del nodo izquierdo:");
 					nodo = int.Parse(Console.ReadLine());
-					array3 [0] = nodo;
+					Array3 [0] = Nodo;
 
 					// Temporal
-					resp = "S";
+					Resp = "S";
 				}
 			
-				if (resp == "N")
+				if (Resp == "N")
 				{
 					do
 					{
 						Console.WriteLine("¿Contiene relación a la derecha? S/N");
-						resp = Console.ReadLine();
-					} while (resp != "S" && resp != "N");
+						Resp = Console.ReadLine();
+					} while (Resp != "S" && Resp != "N");
 
-					if (resp == "S")
+					if (Resp == "S")
 					{
 						Console.WriteLine("Ingrese el valor del nodo derecho");
-						nodo = int.Parse(Console.ReadLine());
-						array3 [1] = nodo;
+						Nodo = int.Parse(Console.ReadLine());
+						Array3 [1] = Nodo;
 					}
 				}
 				// Temporal
-				resp = "N";
+				Resp = "N";
 			}
-			if (resp == "N")
+			if (Resp == "N")
 			{
 				do
 				{
 					Console.WriteLine("¿Contiene relación a la derecha? S/N: ");
-					resp = Console.ReadLine();
-				} while (resp != "S" && resp != "N");
+					Resp = Console.ReadLine();
+				} while (Resp != "S" && Resp != "N");
 			
-				if (resp == "S")
+				if (Resp == "S")
 				{
 					Console.WriteLine("Ingrese el valor del nodo derecho");
-					nodo = int.Parse(Console.ReadLine());
-					array2 [1] = nodo;
+					Nodo = int.Parse(Console.ReadLine());
+					Array2 [1] = Nodo;
 				}
 			}
-			string textarray1 = "", textarray2 = "", textarray3 = "";
+			string textArray1 = "", textarray2 = "", textarray3 = "";
 
-			foreach (int a in array1)
+			foreach (int a in Array1)
 			{
-				textarray1 = textarray1 + a;
+				textArray1 = textArray1 + a;
 			}
-			foreach (int a in array2)
+			foreach (int a in Array2)
 			{
 				textarray2 = textarray2 + a + ",";
 			}
-			foreach (int a in array3)
+			foreach (int a in Array3)
 			{
 				textarray3 = textarray3 + a + ",";
 			}
-			Console.WriteLine(textarray1);
+			Console.WriteLine(textArray1);
 			Console.WriteLine(textarray2);
 			Console.WriteLine(textarray3);
 			Console.ReadKey();

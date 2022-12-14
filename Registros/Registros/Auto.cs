@@ -18,15 +18,15 @@ namespace Registros
             List <Auto> ListaAuto = new List <Auto>();
 
             Console.WriteLine("Ingrese marca");
-            string marca = Console.ReadLine();
+            string Marca = Console.ReadLine();
             Console.WriteLine("Ingrese modelo");
-            string modelo = Console.ReadLine();
+            string Modelo = Console.ReadLine();
             Console.WriteLine("Ingrese año");
-            string anio = Console.ReadLine();
+            string Anio = Console.ReadLine();
             Console.WriteLine("Ingrese tipo");
-            string tipo = Console.ReadLine();
+            string Tipo = Console.ReadLine();
             Console.WriteLine("Ingrese precio");
-            string precio = Console.ReadLine();
+            string Precio = Console.ReadLine();
         }
     }
 }
