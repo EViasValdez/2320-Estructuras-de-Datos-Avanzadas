@@ -16,14 +16,14 @@ namespace ArbolBiarioArray
     static void Main(string[] args)
     {
         // llenar();
-        llenarDefault();
-        imprimir();
-        eliminar();
-        imprimir();
+        LlenarDefault();
+        Imprimir();
+        Eliminar();
+        Imprimir();
 
         Console.ReadKey();
     }
-    public static void llenarDefault()
+    public static void LlenarDefault()
     {
         array1 [0] = 100;
         array2 [0] = 20;
@@ -44,141 +44,141 @@ namespace ArbolBiarioArray
 
         array1 [0] = raiz;
 
-        string resp;
+        string Resp;
         int nodo;
 
-        resp = IzquierdaDerecha (1);
-        if (resp == "S")
+        Resp = IzquierdaDerecha (1);
+        if (Resp == "S")
             {
             Guardar (1, 2, 0);
-            resp = IzquierdaDerecha (1);
+            Resp = IzquierdaDerecha (1);
 
-            if (resp == "S")
+            if (Resp == "S")
             {
                 Guardar (1, 3, 0);
 
-                resp = IzquierdaDerecha (1);
-                if (resp == "S")
+                Resp = IzquierdaDerecha (1);
+                if (Resp == "S")
                 {
                     Guardar (1, 4, 0);
                     Console.WriteLine("El nodo llego a su limite");
 
                     // Temporal
-                    resp = "N";
+                    Resp = "N";
                 }
-                if (resp == "N")
+                if (Resp == "N")
                 {
-                    resp = IzquierdaDerecha (2);
+                    Resp = IzquierdaDerecha (2);
 
-                    if (resp == "S")
+                    if (Resp == "S")
                     {
                         Guardar (2, 4, 1);
                         Console.WriteLine("El nodo llego a su limite");
                     }
                 }
                 // Temporal
-                resp = "N";
+                Resp = "N";
             }
-            if (resp == "N")
+            if (Resp == "N")
             {
-                resp = IzquierdaDerecha (2);
+                Resp = IzquierdaDerecha (2);
 
-                if (resp == "S")
+                if (Resp == "S")
                 {
                     Guardar (2, 3, 1);
 
-                    resp = IzquierdaDerecha (1);
-                    if (resp == "S")
+                    Resp = IzquierdaDerecha (1);
+                    if (Resp == "S")
                     {
                         Guardar (1, 4, 2);
                         Console.WriteLine("El nodo llego a su limite");
                         // Temporal
-                        resp = "N";
+                        Resp = "N";
                     }
-                    if (resp == "N")
+                    if (Resp == "N")
                     {
-                        resp = IzquierdaDerecha (2);
+                        Resp = IzquierdaDerecha (2);
 
-                        if (resp == "S")
+                        if (Resp == "S")
                         {
                             Guardar (2, 4, 3);
                             Console.WriteLine("El nodo llego a su limite");
                         }
                     }
                     // Temporal
-                    resp = "N";
+                    Resp = "N";
                 }
             }
             // Temporal
-            resp = "N";
+            Resp = "N";
         }
-        if (resp == "N")
+        if (Resp == "N")
         {
-            resp = IzquierdaDerecha (2);
+            Resp = IzquierdaDerecha (2);
 
-            if (resp == "S")
+            if (Resp == "S")
             {
                 Guardar (2, 2, 1);
-                resp = IzquierdaDerecha (1);
+                Resp = IzquierdaDerecha (1);
 
-                if (resp == "S")
+                if (Resp == "S")
                 {
                     Guardar (1, 3, 2);
 
-                    resp = IzquierdaDerecha (1);
-                    if (resp == "S")
+                    Resp = IzquierdaDerecha (1);
+                    if (Resp == "S")
                     {
                         Guardar (1, 4, 4);
                         Console.WriteLine("El nodo llego a su limite");
 
                         // Temporal
-                        resp = "N";
+                        Resp = "N";
                     }
-                    if (resp == "N")
+                    if (Resp == "N")
                     {
-                        resp = IzquierdaDerecha (2);
+                        Resp = IzquierdaDerecha (2);
 
-                        if (resp == "S")
+                        if (Resp == "S")
                         {
                             Guardar (2, 4, 5);
                             Console.WriteLine("El nodo llego a su limite");
                         }
                     }
                     // Temporal
-                    resp = "N";
+                    Resp = "N";
                 }
-                if (resp == "N")
+                if (Resp == "N")
                 {
-                    resp = IzquierdaDerecha (2);
+                    Resp = IzquierdaDerecha (2);
 
-                    if (resp == "S")
+                    if (Resp == "S")
                     {
                         Guardar (2, 3, 3);
-                        resp = IzquierdaDerecha (1);
+                        Resp = IzquierdaDerecha (1);
 
-                        if (resp == "S")
+                        if (Resp == "S")
                         {
                             Guardar (1, 4, 6);
                             Console.WriteLine("El nodo llego a su limite");
 
                             // Temporal
-                            resp = "N";
+                            Resp = "N";
                         }
-                        if (resp == "N")
+                        if (Resp == "N")
                         {
-                            resp = IzquierdaDerecha (2);
-                            if (resp == "S")
+                            Resp = IzquierdaDerecha (2);
+                            if (Resp == "S")
                             {
                                 Guardar (2, 4, 7);
                                 Console.WriteLine("El nodo llego a su limite");
                             }
                         }
                         // Temporal
-                        resp = "N";
+                        Resp = "N";
                     }
                 }
                 // Temporal
-                resp = "N";
+                Resp = "N";
             }
         }
     }
@@ -212,7 +212,7 @@ namespace ArbolBiarioArray
         }
         public static string IzquierdaDerecha(int valor)
         {
-            string resp = " ";
+            string Resp = " ";
 
             do
             {
@@ -225,20 +225,20 @@ namespace ArbolBiarioArray
                     Console.WriteLine("¿Contiene relación a la Derecha? S/N");
                 }
 
-                resp = Console.ReadLine();
-                if ((resp != "S" && resp != "N"))
+                Resp = Console.ReadLine();
+                if ((Resp != "S" && Resp != "N"))
                 {
                     Console.WriteLine("Esa opción no es valida");
                 }
-            } while (resp != "S" && resp != "N");
-            return resp;
+            } while (Resp != "S" && Resp != "N");
+            return Resp;
         }
 
-        public static void imprimir()
+        public static void Imprimir()
         {
             string textarray1 = "", textarray2 = "", textarray3 = "", textarray4 = "";
             string linea1 = "", linea2 = "", linea3 = "", linea4 = "", linea5 = "";
-            int contador = 0;
+            int Contador = 0;
 
             foreach (int a in array1)
             {
@@ -249,7 +249,7 @@ namespace ArbolBiarioArray
                 if (a == 0)
                 {
                     textarray2 = textarray2 + " " + "           ";
-                    if (contador == 0)
+                    if (Contador == 0)
                     {
                         linea1 = " " + "     ";
                         linea2 = " " + "       ";
@@ -260,13 +260,13 @@ namespace ArbolBiarioArray
                         linea1 = linea1 + " ";
                         linea2 = linea2 + " ";
                         linea3 = linea3 + " ";
-                        contador = -1;
+                        Contador = -1;
                     }
                 }
                 else
                 {
                     textarray2 = textarray2 + a + "           ";
-                    if (contador == 0)
+                    if (Contador == 0)
                     {
                         linea1 = "/" + "     ";
                         linea2 = "/" + "       ";
@@ -277,72 +277,72 @@ namespace ArbolBiarioArray
                         linea1 = linea1 + "\\";
                         linea2 = linea2 + "\\";
                         linea3 = linea3 + "\\";
-                        contador = -1;
+                        Contador = -1;
                     }
 
                 }
-                contador++;
+                Contador++;
             }
-            contador = 0;
+            Contador = 0;
             foreach (int a in array3)
             {
                 if (a == 0)
                 {
                     textarray3 = textarray3 + " " + "     ";
-                    if (contador == 0)
+                    if (Contador == 0)
                     {
                         linea4 = linea4 + " " + "   ";
                     }
                     else
                     {
                         linea4 = linea4 + " " + "       ";
-                        contador = -1;
+                        Contador = -1;
                     }
                 }
                 else
                 {
                     textarray3 = textarray3 + a + "     ";
-                    if (contador == 0)
+                    if (Contador == 0)
                     {
                         linea4 = linea4 + "/" + "   ";
                     }
                     else
                     {
                         linea4 = linea4 + "\\" + "       ";
-                        contador = -1;
+                        Contador = -1;
                     }
                 }
-                contador++;
+                Contador++;
             }
             foreach (int a in array4)
             {
                 if (a == 0)
                 {
                     textarray4 = textarray4 + " " + "  ";
-                    if (contador == 0)
+                    if (Contador == 0)
                     {
                         linea5 = linea5 + " " + " ";
                     }
                     else
                     {
                         linea5 = linea5 + " " + "   ";
-                        contador = -1;
+                        Contador = -1;
                     }
                 }
                 else
                 {
                     textarray4 = textarray4 + a + "  ";
-                    if (contador == 0)
+                    if (Contador == 0)
                     {
                         linea5 = linea5 + "/" + " ";
                     }
                     else
                     {
                         linea5 = linea5 + "\\" + "   ";
-                        contador = -1;
+                        Contador = -1;
                     }
                 }
-                contador++;
+                Contador++;
             }
             Console.WriteLine("                  " + textarray1);
             //Console.WriteLine("               " + "/" + "     " + "\\");
@@ -359,12 +359,12 @@ namespace ArbolBiarioArray
             Console.WriteLine("        " + linea5);
             Console.WriteLine("       " + textarray4);
         }
-        public static void eliminar()
+        public static void Eliminar()
         {
             Console.WriteLine("¿Desea eliminar un nodo o una hoja? S/N");
-            string resp = Console.ReadLine();
+            string Resp = Console.ReadLine();
 
-            if (resp == "S")
+            if (Resp == "S")
             {
                 int nivel = 0;
 
@@ -385,24 +385,24 @@ namespace ArbolBiarioArray
 
                 do
                 {
-                    Console.WriteLine("Indique la posición del nodo a eliminar");
+                    Console.WriteLine("Indique la posición del nodo a Eliminar");
                     nodoEliminar = int.Parse (Console.ReadLine());
 
                     if (nivel== 1 && (nodoEliminar > 0 || nodoEliminar < 0 ))
                     {
-                        Console.WriteLine("El nodo a eliminar es incorrecto");
+                        Console.WriteLine("El nodo a Eliminar es incorrecto");
                     }
                     else if (nivel == 2 && ( nodoEliminar > 1 || nodoEliminar < 0))
                     {
-                        Console.WriteLine("El nodo a eliminar es incorrecto");
+                        Console.WriteLine("El nodo a Eliminar es incorrecto");
                     }
                     else if (nivel == 3 && (nodoEliminar > 3 || nodoEliminar < 0))
                     {
-                        Console.WriteLine("El nodo a eliminar es incorrecto");
+                        Console.WriteLine("El nodo a Eliminar es incorrecto");
                     }
                     else if (nivel == 4 && (nodoEliminar > 7 || nodoEliminar < 0))
                     {
-                        Console.WriteLine("El nodo a eliminar es incorrecto");
+                        Console.WriteLine("El nodo a Eliminar es incorrecto");
                     }
                     else
                     {

@@ -49,14 +49,14 @@ namespace BusquedaSecuencial
         {
             List <string> list = new List<string>();
 
-            list.Add ("Juan");
-            list.Add ("Francisco");
-            list.Add ("Johana");
-            list.Add ("Alexis");
-            list.Add ("Johan");
-            list.Add ("Luis");
-            list.Add ("Andres");
-            list.Add ("Rogelio");
+            list.Add("Juan");
+            list.Add("Francisco");
+            list.Add("Johana");
+            list.Add("Alexis");
+            list.Add("Johan");
+            list.Add("Luis");
+            list.Add("Andres");
+            list.Add("Rogelio");
 
             Console.WriteLine("Ingrese el valor a buscar");
             string ValorBuscado = Console.ReadLine();
