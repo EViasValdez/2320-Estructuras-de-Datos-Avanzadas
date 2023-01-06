@@ -184,7 +184,7 @@ namespace ArbolBiarioArray
     }
         public static void Guardar(int valor, int nivel, int indice)
         {
-            int nodo;
+            int Nodo;
 
             if (valor == 1)
             {
@@ -195,19 +195,19 @@ namespace ArbolBiarioArray
                 Console.WriteLine("Ingrese el Valor del nodo derecho:");
             }
 
-            nodo = int.Parse (Console.ReadLine());
+            Nodo = int.Parse (Console.ReadLine());
 
             if (nivel == 2)
             {
-                array2 [indice] = nodo;
+                array2 [indice] = Nodo;
             }
             else if (nivel == 3)
             {
-                array3 [indice] = nodo;
+                array3 [indice] = Nodo;
             }
             else if (nivel == 4)
             {
-                array4 [indice] = nodo;
+                array4 [indice] = Nodo;
             }
         }
         public static string IzquierdaDerecha(int valor)
@@ -380,27 +380,27 @@ namespace ArbolBiarioArray
 
                 imprimirNivel (nivel);
 
-                int nodoEliminar;
+                int NodoEliminar;
                 int incorrecto = 0;
 
                 do
                 {
                     Console.WriteLine("Indique la posición del nodo a Eliminar");
-                    nodoEliminar = int.Parse (Console.ReadLine());
+                    NodoEliminar = int.Parse (Console.ReadLine());
 
-                    if (nivel== 1 && (nodoEliminar > 0 || nodoEliminar < 0 ))
+                    if (nivel== 1 && (NodoEliminar > 0 || NodoEliminar < 0 ))
                     {
                         Console.WriteLine("El nodo a Eliminar es incorrecto");
                     }
-                    else if (nivel == 2 && ( nodoEliminar > 1 || nodoEliminar < 0))
+                    else if (nivel == 2 && ( NodoEliminar > 1 || NodoEliminar < 0))
                     {
                         Console.WriteLine("El nodo a Eliminar es incorrecto");
                     }
-                    else if (nivel == 3 && (nodoEliminar > 3 || nodoEliminar < 0))
+                    else if (nivel == 3 && (NodoEliminar > 3 || NodoEliminar < 0))
                     {
                         Console.WriteLine("El nodo a Eliminar es incorrecto");
                     }
-                    else if (nivel == 4 && (nodoEliminar > 7 || nodoEliminar < 0))
+                    else if (nivel == 4 && (NodoEliminar > 7 || NodoEliminar < 0))
                     {
                         Console.WriteLine("El nodo a Eliminar es incorrecto");
                     }
@@ -411,19 +411,19 @@ namespace ArbolBiarioArray
                 } while (incorrecto == 0);
                 if (nivel == 1)
                 {
-                    array1 [nodoEliminar] = 0;
+                    array1 [NodoEliminar] = 0;
                 }
                 else if (nivel == 2)
                 {
-                    array2 [nodoEliminar] = 0;
+                    array2 [NodoEliminar] = 0;
                 }
                 else if (nivel == 3) 
                 {
-                    array3 [nodoEliminar] = 0;
+                    array3 [NodoEliminar] = 0;
                 }
                 else if (nivel == 4)
                 {
-                    array4 [nodoEliminar] = 0;
+                    array4 [NodoEliminar] = 0;
                 }
                 for (int i = 0; i < array1.Length; i++)
                 {

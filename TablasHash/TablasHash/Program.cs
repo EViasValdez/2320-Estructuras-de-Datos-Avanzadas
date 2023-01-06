@@ -9,11 +9,11 @@ namespace TablasHash
         {
             Hashtable tb = new Hashtable();
 
-            tb.Add (1, "Jalisco");
-            tb.Add (2, "Mexico");
-            tb.Add (3, "Veracruz");
-            tb.Add (4, "Chiapas");
-            tb.Add (5, "Guerrero");
+            tb.Add(1, "Jalisco");
+            tb.Add(2, "Mexico");
+            tb.Add(3, "Veracruz");
+            tb.Add(4, "Chiapas");
+            tb.Add(5, "Guerrero");
 
             foreach (DictionaryEntry estados in tb)
             {

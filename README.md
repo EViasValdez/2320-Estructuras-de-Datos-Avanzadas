@@ -15,24 +15,24 @@ Tomo un poco más de tiempo para mí para crear este repositorio, especialmente 
 <!----Separador de las notas---->
 
 <!----Directorio con descripcion de los programas---->
-# Directorio de archivos
+# Descripcion de los programas
 ## ● Unidad 1 ●
 ###### ArbolBinario2 - 06/20
 Texto por ser escrito.
 
 ## ● Unidad 2 ●
 ###### BusquedaSecuencial - 03/07/20
-Texto por ser escrito.
+Crea, añade, y busca datos de manera secuencial en diferentes.
 
 <!----Separador---->
 
 ###### BusquedaBinaria - 15/07/20
-Texto por ser escrito.
+Realiza una busqueda de valores de manera binaria.
 
 <!----Separador---->
 
 ###### TablasHash - 24/07/20
-Texto por ser escrito.
+Por medio del metodo de las tablas hash se puede realizar busquedas por medio del ID del elemento.
 
 <!----Separador---->
 
