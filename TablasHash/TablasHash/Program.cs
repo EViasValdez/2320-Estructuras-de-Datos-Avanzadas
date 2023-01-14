@@ -15,16 +15,16 @@ namespace TablasHash
             tb.Add(4, "Chiapas");
             tb.Add(5, "Guerrero");
 
-            foreach (DictionaryEntry estados in tb)
+            foreach (DictionaryEntry Estados in tb)
             {
-                Console.WriteLine(estados.Key + " " + estados.Value);
+                Console.WriteLine(Estados.Key + " " + Estados.Value);
             }
 
             tb.Add (6, "Guerrero");
             Console.WriteLine("-----------------------------------");
-            foreach (DictionaryEntry estados in tb)
+            foreach (DictionaryEntry Estados in tb)
             {
-                Console.WriteLine(estados.Key + " " + estados.Value);
+                Console.WriteLine(Estados.Key + " " + Estados.Value);
             }
 
             Console.WriteLine("-----------------------------------");
@@ -58,34 +58,34 @@ namespace TablasHash
             if (tipo == 1)
             {
                 Console.WriteLine("Ingrese el Id a buscar");
-                int valorBuscado = int.Parse(Console.ReadLine());
+                int ValorBuscado = int.Parse(Console.ReadLine());
 
-                if (tb.Contains(valorBuscado))
+                if (tb.Contains(ValorBuscado))
                 {
-                    Console.WriteLine("El valor " + valorBuscado + " existe en la tabla");
+                    Console.WriteLine("El valor " + ValorBuscado + " existe en la tabla");
                 }
                 else
                 {
-                    Console.WriteLine("El valor " + valorBuscado + " no existe en la tabla");
+                    Console.WriteLine("El valor " + ValorBuscado + " no existe en la tabla");
                 }
             }
             else if (tipo == 2)
             {
                 Console.WriteLine("Ingrese el valor a buscar: ");
-                string valorBuscado = Console.ReadLine();
+                string ValorBuscado = Console.ReadLine();
                 
                 bool encuentra = false;
 
                 foreach (string val in tb.Values)
                 {
-                    if (val == valorBuscado)
+                    if (val == ValorBuscado)
                     {
-                        Console.WriteLine("El valor " + valorBuscado + " existe en la tabla");
+                        Console.WriteLine("El valor " + ValorBuscado + " existe en la tabla");
                         encuentra = true;
                     }
                     if (encuentra)
                     {
-                        Console.WriteLine("El valor " + valorBuscado + " no existe en la tabla");
+                        Console.WriteLine("El valor " + ValorBuscado + " no existe en la tabla");
                     }
                 }
             }
