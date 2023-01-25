@@ -22,7 +22,7 @@ Texto por ser escrito.
 
 ## ● Unidad 2 ●
 ###### BusquedaSecuencial - 03/07/20
-Crea, añade, y busca datos de manera secuencial en diferentes.
+Crea, añade, y busca datos de manera secuencial.
 
 <!----Separador---->
 
@@ -37,7 +37,7 @@ Por medio del metodo de las tablas hash se puede realizar busquedas por medio de
 <!----Separador---->
 
 ###### ArbolBinarioArray - 24/07/20
-Texto por ser escrito.
+Creacion automatica de arboles binarios.
 
 ###### Registros - 24/07/20
 Texto por ser escrito.
