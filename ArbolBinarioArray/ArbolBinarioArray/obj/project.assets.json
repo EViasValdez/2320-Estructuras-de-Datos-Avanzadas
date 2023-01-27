@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\defaultuser0\\.nuget\\packages\\": {}
@@ -13,24 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-Estructuras-De-Datos-Avanzadas\\ArbolBinarioArray\\ArbolBinarioArray\\ArbolBinarioArray.csproj",
+      "projectUniqueName": "C:\\Users\\defaultuser0\\source\\repos\\ArbolBinarioArray\\ArbolBinarioArray\\ArbolBinarioArray.csproj",
       "projectName": "ArbolBinarioArray",
-      "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-Estructuras-De-Datos-Avanzadas\\ArbolBinarioArray\\ArbolBinarioArray\\ArbolBinarioArray.csproj",
+      "projectPath": "C:\\Users\\defaultuser0\\source\\repos\\ArbolBinarioArray\\ArbolBinarioArray\\ArbolBinarioArray.csproj",
       "packagesPath": "C:\\Users\\defaultuser0\\.nuget\\packages\\",
-      "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-Estructuras-De-Datos-Avanzadas\\ArbolBinarioArray\\ArbolBinarioArray\\obj\\",
+      "outputPath": "C:\\Users\\defaultuser0\\source\\repos\\ArbolBinarioArray\\ArbolBinarioArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\defaultuser0\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\defaultuser0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0-windows"
+        "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -41,15 +43,16 @@
       }
     },
     "frameworks": {
-      "net6.0-windows7.0": {
-        "targetAlias": "net6.0-windows",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

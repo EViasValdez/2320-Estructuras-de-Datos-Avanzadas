@@ -37,7 +37,7 @@ namespace ArbolBinario2
 				if (Resp == "S")
 				{
 					Console.WriteLine("Ingrese el valor del nodo izquierdo:");
-					nodo = int.Parse(Console.ReadLine());
+					Nodo = int.Parse(Console.ReadLine());
 					Array3 [0] = Nodo;
 
 					// Temporal

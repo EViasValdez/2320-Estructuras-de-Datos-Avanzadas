@@ -1,0 +1,15 @@
+C:\Users\defaultuser0\source\repos\ArbolBinarioArray\ArbolBinarioArray\bin\Debug\net6.0\ArbolBinarioArray.exe
+C:\Users\defaultuser0\source\repos\ArbolBinarioArray\ArbolBinarioArray\bin\Debug\net6.0\ArbolBinarioArray.deps.json
+C:\Users\defaultuser0\source\repos\ArbolBinarioArray\ArbolBinarioArray\bin\Debug\net6.0\ArbolBinarioArray.runtimeconfig.json
+C:\Users\defaultuser0\source\repos\ArbolBinarioArray\ArbolBinarioArray\bin\Debug\net6.0\ArbolBinarioArray.dll
+C:\Users\defaultuser0\source\repos\ArbolBinarioArray\ArbolBinarioArray\bin\Debug\net6.0\ArbolBinarioArray.pdb
+C:\Users\defaultuser0\source\repos\ArbolBinarioArray\ArbolBinarioArray\obj\Debug\net6.0\ArbolBinarioArray.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\source\repos\ArbolBinarioArray\ArbolBinarioArray\obj\Debug\net6.0\ArbolBinarioArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defaultuser0\source\repos\ArbolBinarioArray\ArbolBinarioArray\obj\Debug\net6.0\ArbolBinarioArray.AssemblyInfoInputs.cache
+C:\Users\defaultuser0\source\repos\ArbolBinarioArray\ArbolBinarioArray\obj\Debug\net6.0\ArbolBinarioArray.AssemblyInfo.cs
+C:\Users\defaultuser0\source\repos\ArbolBinarioArray\ArbolBinarioArray\obj\Debug\net6.0\ArbolBinarioArray.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\source\repos\ArbolBinarioArray\ArbolBinarioArray\obj\Debug\net6.0\ArbolBinarioArray.dll
+C:\Users\defaultuser0\source\repos\ArbolBinarioArray\ArbolBinarioArray\obj\Debug\net6.0\refint\ArbolBinarioArray.dll
+C:\Users\defaultuser0\source\repos\ArbolBinarioArray\ArbolBinarioArray\obj\Debug\net6.0\ArbolBinarioArray.pdb
+C:\Users\defaultuser0\source\repos\ArbolBinarioArray\ArbolBinarioArray\obj\Debug\net6.0\ArbolBinarioArray.genruntimeconfig.cache
+C:\Users\defaultuser0\source\repos\ArbolBinarioArray\ArbolBinarioArray\obj\Debug\net6.0\ref\ArbolBinarioArray.dll
