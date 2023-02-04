@@ -11,7 +11,7 @@ Tomo un poco más de tiempo para mí para crear este repositorio, especialmente 
 
 **- Al igual como los proyectos de programación orientada a objetos los trabajos fueron cambiados de version de NET.**
 
-**- El proyecto "Apli" era únicamente un proyecto vació que lo termine eliminando, así que no tenia motivo para estar ahí.**
+**- El proyecto "Apli" era únicamente un proyecto vació que lo termine eliminando, ya que no tenia motivo para estar ahí.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripcion de los programas---->
