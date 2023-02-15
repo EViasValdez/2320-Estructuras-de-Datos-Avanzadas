@@ -74,16 +74,16 @@ namespace TablasHash
                 Console.WriteLine("Ingrese el valor a buscar: ");
                 string ValorBuscado = Console.ReadLine();
                 
-                bool encuentra = false;
+                bool Encuentra = false;
 
                 foreach (string val in tb.Values)
                 {
                     if (val == ValorBuscado)
                     {
                         Console.WriteLine("El valor " + ValorBuscado + " existe en la tabla");
-                        encuentra = true;
+                        Encuentra = true;
                     }
-                    if (encuentra)
+                    if (Encuentra)
                     {
                         Console.WriteLine("El valor " + ValorBuscado + " no existe en la tabla");
                     }

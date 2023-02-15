@@ -8,10 +8,10 @@ namespace ArbolBinarioArray
 {
     class Program
     {
-        public static int[] array1 = new int[1];
-        public static int[] array2 = new int[2];
-        public static int[] array3 = new int[4];
-        public static int[] array4 = new int[8];
+        public static int[] Array1 = new int[1];
+        public static int[] Array2 = new int[2];
+        public static int[] Array3 = new int[4];
+        public static int[] Array4 = new int[8];
 
         static void Main(string[] args)
         {
@@ -25,24 +25,24 @@ namespace ArbolBinarioArray
         }
         public static void LlenarDefault()
         {
-            array1[0] = 100;
-            array2[0] = 20;
-            array2[1] = 12;
-            array3[0] = 1;
-            array3[1] = 2;
-            array3[3] = 2;
-            array4[0] = 1;
-            array4[1] = 3;
-            array4[3] = 1;
-            array4[6] = 7;
-            array4[7] = 8;
+            Array1[0] = 100;
+            Array2[0] = 20;
+            Array2[1] = 12;
+            Array3[0] = 1;
+            Array3[1] = 2;
+            Array3[3] = 2;
+            Array4[0] = 1;
+            Array4[1] = 3;
+            Array4[3] = 1;
+            Array4[6] = 7;
+            Array4[7] = 8;
         }
         public static void llenar()
         {
             Console.WriteLine("Ingrese el valor del nodo raíz:");
-            int raiz = int.Parse(Console.ReadLine());
+            int Raiz = int.Parse(Console.ReadLine());
 
-            array1[0] = raiz;
+            Array1[0] = Raiz;
 
             string Resp;
             int nodo;
@@ -182,45 +182,45 @@ namespace ArbolBinarioArray
                 }
             }
         }
-        public static void Guardar(int valor, int nivel, int indice)
+        public static void Guardar(int Valor, int Nivel, int Indice)
         {
             int Nodo;
 
-            if (valor == 1)
+            if (Valor == 1)
             {
-                Console.WriteLine("Ingrese el Valor del nodo izquierdo:");
+                Console.WriteLine("Ingrese el valor del nodo izquierdo:");
             }
-            else if (valor == 2)
+            else if (Valor == 2)
             {
-                Console.WriteLine("Ingrese el Valor del nodo derecho:");
+                Console.WriteLine("Ingrese el valor del nodo derecho:");
             }
 
             Nodo = int.Parse(Console.ReadLine());
 
-            if (nivel == 2)
+            if (Nivel == 2)
             {
-                array2[indice] = Nodo;
+                Array2[Indice] = Nodo;
             }
-            else if (nivel == 3)
+            else if (Nivel == 3)
             {
-                array3[indice] = Nodo;
+                Array3[Indice] = Nodo;
             }
-            else if (nivel == 4)
+            else if (Nivel == 4)
             {
-                array4[indice] = Nodo;
+                Array4[Indice] = Nodo;
             }
         }
-        public static string IzquierdaDerecha(int valor)
+        public static string IzquierdaDerecha(int Valor)
         {
             string Resp = " ";
 
             do
             {
-                if (valor == 1)
+                if (Valor == 1)
                 {
                     Console.WriteLine("¿Contiene relación a la izquierda? S/N");
                 }
-                else if (valor == 2)
+                else if (Valor == 2)
                 {
                     Console.WriteLine("¿Contiene relación a la Derecha? S/N");
                 }
@@ -236,47 +236,47 @@ namespace ArbolBinarioArray
 
         public static void Imprimir()
         {
-            string textarray1 = "", textarray2 = "", textarray3 = "", textarray4 = "";
-            string linea1 = "", linea2 = "", linea3 = "", linea4 = "", linea5 = "";
+            string TextArray1 = "", TextArray2 = "", TextArray3 = "", TextArray4 = "";
+            string Linea1 = "", Linea2 = "", Linea3 = "", Linea4 = "", Linea5 = "";
             int Contador = 0;
 
-            foreach (int a in array1)
+            foreach (int a in Array1)
             {
-                textarray1 = textarray1 + a;
+                TextArray1 = TextArray1 + a;
             }
-            foreach (int a in array2)
+            foreach (int a in Array2)
             {
                 if (a == 0)
                 {
-                    textarray2 = textarray2 + " " + "           ";
+                    TextArray2 = TextArray2 + " " + "           ";
                     if (Contador == 0)
                     {
-                        linea1 = " " + "     ";
-                        linea2 = " " + "       ";
-                        linea3 = " " + "         ";
+                        Linea1 = " " + "     ";
+                        Linea2 = " " + "       ";
+                        Linea3 = " " + "         ";
                     }
                     else
                     {
-                        linea1 = linea1 + " ";
-                        linea2 = linea2 + " ";
-                        linea3 = linea3 + " ";
+                        Linea1 = Linea1 + " ";
+                        Linea2 = Linea2 + " ";
+                        Linea3 = Linea3 + " ";
                         Contador = -1;
                     }
                 }
                 else
                 {
-                    textarray2 = textarray2 + a + "           ";
+                    TextArray2 = TextArray2 + a + "           ";
                     if (Contador == 0)
                     {
-                        linea1 = "/" + "     ";
-                        linea2 = "/" + "       ";
-                        linea3 = "/" + "         ";
+                        Linea1 = "/" + "     ";
+                        Linea2 = "/" + "       ";
+                        Linea3 = "/" + "         ";
                     }
                     else
                     {
-                        linea1 = linea1 + "\\";
-                        linea2 = linea2 + "\\";
-                        linea3 = linea3 + "\\";
+                        Linea1 = Linea1 + "\\";
+                        Linea2 = Linea2 + "\\";
+                        Linea3 = Linea3 + "\\";
                         Contador = -1;
                     }
 
@@ -284,80 +284,80 @@ namespace ArbolBinarioArray
                 Contador++;
             }
             Contador = 0;
-            foreach (int a in array3)
+            foreach (int a in Array3)
             {
                 if (a == 0)
                 {
-                    textarray3 = textarray3 + " " + "     ";
+                    TextArray3 = TextArray3 + " " + "     ";
                     if (Contador == 0)
                     {
-                        linea4 = linea4 + " " + "   ";
+                        Linea4 = Linea4 + " " + "   ";
                     }
                     else
                     {
-                        linea4 = linea4 + " " + "       ";
+                        Linea4 = Linea4 + " " + "       ";
                         Contador = -1;
                     }
                 }
                 else
                 {
-                    textarray3 = textarray3 + a + "     ";
+                    TextArray3 = TextArray3 + a + "     ";
                     if (Contador == 0)
                     {
-                        linea4 = linea4 + "/" + "   ";
+                        Linea4 = Linea4 + "/" + "   ";
                     }
                     else
                     {
-                        linea4 = linea4 + "\\" + "       ";
+                        Linea4 = Linea4 + "\\" + "       ";
                         Contador = -1;
                     }
                 }
                 Contador++;
             }
-            foreach (int a in array4)
+            foreach (int a in Array4)
             {
                 if (a == 0)
                 {
-                    textarray4 = textarray4 + " " + "  ";
+                    TextArray4 = TextArray4 + " " + "  ";
                     if (Contador == 0)
                     {
-                        linea5 = linea5 + " " + " ";
+                        Linea5 = Linea5 + " " + " ";
                     }
                     else
                     {
-                        linea5 = linea5 + " " + "   ";
+                        Linea5 = Linea5 + " " + "   ";
                         Contador = -1;
                     }
                 }
                 else
                 {
-                    textarray4 = textarray4 + a + "  ";
+                    TextArray4 = TextArray4 + a + "  ";
                     if (Contador == 0)
                     {
-                        linea5 = linea5 + "/" + " ";
+                        Linea5 = Linea5 + "/" + " ";
                     }
                     else
                     {
-                        linea5 = linea5 + "\\" + "   ";
+                        Linea5 = Linea5 + "\\" + "   ";
                         Contador = -1;
                     }
                 }
                 Contador++;
             }
-            Console.WriteLine("                  " + textarray1);
+            Console.WriteLine("                  " + TextArray1);
             //Console.WriteLine("               " + "/" + "     " + "\\");
             //Console.WriteLine("              " + "/" + "       " + "\\");
             //Console.WriteLine("             " + "/" + "         " + "\\");
-            Console.WriteLine("               " + linea1);
-            Console.WriteLine("              " + linea2);
-            Console.WriteLine("             " + linea3);
-            Console.WriteLine("            " + textarray2);
+            Console.WriteLine("               " + Linea1);
+            Console.WriteLine("              " + Linea2);
+            Console.WriteLine("             " + Linea3);
+            Console.WriteLine("            " + TextArray2);
             //Console.WriteLine("          " + "/" + "   " + "\\" + "       " + "/" + "   " + "\\");
-            Console.WriteLine("          " + linea4);
-            Console.WriteLine("         " + textarray3);
+            Console.WriteLine("          " + Linea4);
+            Console.WriteLine("         " + TextArray3);
             //Console.WriteLine("        " + "/" + " " + "\\" + "   " + "/" + " " + "\\" + "   " + "/" + " " + "\\" + "   " + "/" + " " + "\\");
-            Console.WriteLine("        " + linea5);
-            Console.WriteLine("       " + textarray4);
+            Console.WriteLine("        " + Linea5);
+            Console.WriteLine("       " + TextArray4);
         }
         public static void Eliminar()
         {
@@ -366,87 +366,87 @@ namespace ArbolBinarioArray
 
             if (Resp == "S")
             {
-                int nivel = 0;
+                int Nivel = 0;
 
                 do
                 {
                     Console.WriteLine("¿Que desea eliminar la hoja o el nodo?");
-                    nivel = int.Parse(Console.ReadLine());
-                    if (nivel < 1 || nivel > 5)
+                    Nivel = int.Parse(Console.ReadLine());
+                    if (Nivel < 1 || Nivel > 5)
                     {
                         Console.WriteLine("Valor incorrecto, solo se puede seleccionar un valor entre el 1 y el 4");
                     }
-                } while (nivel < 1 || nivel > 5);
+                } while (Nivel < 1 || Nivel > 5);
 
-                imprimirNivel(nivel);
+                ImprimirNivel(Nivel);
 
                 int NodoEliminar;
-                int incorrecto = 0;
+                int Incorrecto = 0;
 
                 do
                 {
                     Console.WriteLine("Indique la posición del nodo a Eliminar");
                     NodoEliminar = int.Parse(Console.ReadLine());
 
-                    if (nivel == 1 && (NodoEliminar > 0 || NodoEliminar < 0))
+                    if (Nivel == 1 && (NodoEliminar > 0 || NodoEliminar < 0))
                     {
                         Console.WriteLine("El nodo a Eliminar es incorrecto");
                     }
-                    else if (nivel == 2 && (NodoEliminar > 1 || NodoEliminar < 0))
+                    else if (Nivel == 2 && (NodoEliminar > 1 || NodoEliminar < 0))
                     {
                         Console.WriteLine("El nodo a Eliminar es incorrecto");
                     }
-                    else if (nivel == 3 && (NodoEliminar > 3 || NodoEliminar < 0))
+                    else if (Nivel == 3 && (NodoEliminar > 3 || NodoEliminar < 0))
                     {
                         Console.WriteLine("El nodo a Eliminar es incorrecto");
                     }
-                    else if (nivel == 4 && (NodoEliminar > 7 || NodoEliminar < 0))
+                    else if (Nivel == 4 && (NodoEliminar > 7 || NodoEliminar < 0))
                     {
                         Console.WriteLine("El nodo a Eliminar es incorrecto");
                     }
                     else
                     {
-                        incorrecto = 1;
+                        Incorrecto = 1;
                     }
-                } while (incorrecto == 0);
-                if (nivel == 1)
+                } while (Incorrecto == 0);
+                if (Nivel == 1)
                 {
-                    array1[NodoEliminar] = 0;
+                    Array1[NodoEliminar] = 0;
                 }
-                else if (nivel == 2)
+                else if (Nivel == 2)
                 {
-                    array2[NodoEliminar] = 0;
+                    Array2[NodoEliminar] = 0;
                 }
-                else if (nivel == 3)
+                else if (Nivel == 3)
                 {
-                    array3[NodoEliminar] = 0;
+                    Array3[NodoEliminar] = 0;
                 }
-                else if (nivel == 4)
+                else if (Nivel == 4)
                 {
-                    array4[NodoEliminar] = 0;
+                    Array4[NodoEliminar] = 0;
                 }
-                for (int i = 0; i < array1.Length; i++)
+                for (int i = 0; i < Array1.Length; i++)
                 {
-                    if (array1[i] == 0)
+                    if (Array1[i] == 0)
                     {
-                        array2[0] = 0;
-                        array2[1] = 0;
+                        Array2[0] = 0;
+                        Array2[1] = 0;
                     }
                     int a = 0, b = 1;
-                    for (int j = 0; j < array2.Length; j++)
+                    for (int j = 0; j < Array2.Length; j++)
                     {
-                        if (array2[j] == 0)
+                        if (Array2[j] == 0)
                         {
-                            array3[a] = 0;
-                            array3[b] = 0;
+                            Array3[a] = 0;
+                            Array3[b] = 0;
                         }
                         int c = 0, d = 1;
-                        for (int k = 0; k < array3.Length; k++)
+                        for (int k = 0; k < Array3.Length; k++)
                         {
-                            if (array3[k] == 0)
+                            if (Array3[k] == 0)
                             {
-                                array4[c] = 0;
-                                array4[d] = 0;
+                                Array4[c] = 0;
+                                Array4[d] = 0;
                             }
                             c = c + 2;
                             d = d + 2;
@@ -457,62 +457,62 @@ namespace ArbolBinarioArray
                 }
             }
         }
-        public static void imprimirNivel(int nivel)
+        public static void ImprimirNivel(int Nivel)
         {
-            string valor = "  |  ";
-            string posicion = "  |  ";
+            string Valor = "  |  ";
+            string Posicion = "  |  ";
 
-            if (nivel == 1)
+            if (Nivel == 1)
             {
-                for (int i = 0; i < array1.Length; i++)
+                for (int i = 0; i < Array1.Length; i++)
                 {
-                    if (array1[i] > 0)
+                    if (Array1[i] > 0)
                     {
-                        posicion = posicion + i + "   |   ";
-                        valor = valor + array1[i] + "   |" + "   ";
+                        Posicion = Posicion + i + "   |   ";
+                        Valor = Valor + Array1[i] + "   |" + "   ";
                     }
                 }
-                Console.WriteLine(posicion + "Posición");
-                Console.WriteLine(valor + "Valor");
+                Console.WriteLine(Posicion + "Posición");
+                Console.WriteLine(Valor + "Valor");
             }
-            else if (nivel == 2)
+            else if (Nivel == 2)
             {
-                for (int i = 0; i < array2.Length; i++)
+                for (int i = 0; i < Array2.Length; i++)
                 {
-                    if (array2[i] > 0)
+                    if (Array2[i] > 0)
                     {
-                        posicion = posicion + i + "   |   ";
-                        valor = valor + array2[i] + "   |  ";
+                        Posicion = Posicion + i + "   |   ";
+                        Valor = Valor + Array2[i] + "   |  ";
                     }
                 }
-                Console.WriteLine(posicion + "Posición");
-                Console.WriteLine(valor + "Valor");
+                Console.WriteLine(Posicion + "Posición");
+                Console.WriteLine(Valor + "Valor");
             }
-            else if (nivel == 3)
+            else if (Nivel == 3)
             {
-                for (int i = 0; i < array3.Length; i++)
+                for (int i = 0; i < Array3.Length; i++)
                 {
-                    if (array3[i] > 0)
+                    if (Array3[i] > 0)
                     {
-                        posicion = posicion + i + "   |   ";
-                        valor = valor + array3[i] + "   |   ";
+                        Posicion = Posicion + i + "   |   ";
+                        Valor = Valor + Array3[i] + "   |   ";
                     }
                 }
-                Console.WriteLine(posicion + "Posición");
-                Console.WriteLine(valor + "Valor");
+                Console.WriteLine(Posicion + "Posición");
+                Console.WriteLine(Valor + "Valor");
             }
-            else if (nivel == 4)
+            else if (Nivel == 4)
             {
-                for (int i = 0; i < array4.Length; i++)
+                for (int i = 0; i < Array4.Length; i++)
                 {
-                    if (array4[i] > 0)
+                    if (Array4[i] > 0)
                     {
-                        posicion = posicion + i + "   |   ";
-                        valor = valor + array4[i] + "   |   ";
+                        Posicion = Posicion + i + "   |   ";
+                        Valor = Valor + Array4[i] + "   |   ";
                     }
                 }
-                Console.WriteLine(posicion + "Posición");
-                Console.WriteLine(valor + "Valor");
+                Console.WriteLine(Posicion + "Posición");
+                Console.WriteLine(Valor + "Valor");
             }
         }
     }

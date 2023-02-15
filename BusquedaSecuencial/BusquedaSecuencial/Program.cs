@@ -13,12 +13,12 @@ namespace BusquedaSecuencial
 
         public static void BusquedaEntero()
         {
-            int [] arrayCont = new int [10];
+            int [] ArrayCont = new int [10];
             
-            for (int i = 0; i < arrayCont.Length; i++)
+            for (int i = 0; i < ArrayCont.Length; i++)
             {
                 Console.WriteLine("Ingrese el numero " + i);
-                arrayCont[i] = int.Parse(Console.ReadLine());
+                ArrayCont[i] = int.Parse(Console.ReadLine());
             }
 
             Console.WriteLine("Ingrese el elemento a buscar");
@@ -27,7 +27,7 @@ namespace BusquedaSecuencial
             int Cont = 0;
             bool Res = false;
 
-            foreach (int a in arrayCont)
+            foreach (int a in ArrayCont)
             {
                 if (a == Valor)
                 {

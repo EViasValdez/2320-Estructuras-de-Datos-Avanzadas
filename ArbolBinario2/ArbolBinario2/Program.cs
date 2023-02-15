@@ -77,23 +77,23 @@ namespace ArbolBinario2
 					Array2 [1] = Nodo;
 				}
 			}
-			string textArray1 = "", textarray2 = "", textarray3 = "";
+			string TextArray1 = "", TextArray2 = "", TextArray3 = "";
 
 			foreach (int a in Array1)
 			{
-				textArray1 = textArray1 + a;
+				TextArray1 = TextArray1 + a;
 			}
 			foreach (int a in Array2)
 			{
-				textarray2 = textarray2 + a + ",";
+				TextArray2 = TextArray2 + a + ",";
 			}
 			foreach (int a in Array3)
 			{
-				textarray3 = textarray3 + a + ",";
+				TextArray3 = TextArray3 + a + ",";
 			}
-			Console.WriteLine(textArray1);
-			Console.WriteLine(textarray2);
-			Console.WriteLine(textarray3);
+			Console.WriteLine(TextArray1);
+			Console.WriteLine(TextArray2);
+			Console.WriteLine(TextArray3);
 			Console.ReadKey();
         }
     }
