@@ -53,9 +53,9 @@ namespace TablasHash
             Console.WriteLine("2. Buscar elemento con valor");
             Console.WriteLine("3. Valor indice");
             Console.WriteLine("Ingrese una opción");
-            int tipo = int.Parse(Console.ReadLine());
+            int Tipo = int.Parse(Console.ReadLine());
 
-            if (tipo == 1)
+            if (Tipo == 1)
             {
                 Console.WriteLine("Ingrese el Id a buscar");
                 int ValorBuscado = int.Parse(Console.ReadLine());
@@ -69,7 +69,7 @@ namespace TablasHash
                     Console.WriteLine("El valor " + ValorBuscado + " no existe en la tabla");
                 }
             }
-            else if (tipo == 2)
+            else if (Tipo == 2)
             {
                 Console.WriteLine("Ingrese el valor a buscar: ");
                 string ValorBuscado = Console.ReadLine();
