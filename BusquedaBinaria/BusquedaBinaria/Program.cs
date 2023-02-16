@@ -37,7 +37,7 @@ namespace BusquedaBinaria
             }
 
             Console.WriteLine("Ingrese el valor a buscar");
-            int valorbuscado = int.Parse(Console.ReadLine());
+            int ValorBuscado = int.Parse(Console.ReadLine());
 
             int Final = Arreglo.Length - 1;
             int Inicio = 0;
@@ -47,16 +47,16 @@ namespace BusquedaBinaria
             do
             {
                 Media = (Inicio + Final) / 2;
-                if (valorbuscado == Arreglo [Media])
+                if (ValorBuscado == Arreglo [Media])
                 {
                     Console.WriteLine("El valor buscado se encuentra en el indice " + Media);
                     z = true;
                 }
-                else if (valorbuscado > Arreglo [Media])
+                else if (ValorBuscado > Arreglo [Media])
                 {
                     Final = Media - 1;
                 }
-                else if (valorbuscado < Arreglo [Media])
+                else if (ValorBuscado < Arreglo [Media])
                 {
                     Inicio = Media + 1;
                 }

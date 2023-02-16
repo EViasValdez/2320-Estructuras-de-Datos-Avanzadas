@@ -76,9 +76,9 @@ namespace TablasHash
                 
                 bool Encuentra = false;
 
-                foreach (string val in tb.Values)
+                foreach (string Val in tb.Values)
                 {
-                    if (val == ValorBuscado)
+                    if (Val == ValorBuscado)
                     {
                         Console.WriteLine("El valor " + ValorBuscado + " existe en la tabla");
                         Encuentra = true;

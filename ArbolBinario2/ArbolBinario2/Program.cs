@@ -7,7 +7,7 @@ namespace ArbolBinario2
         static void Main(string[] args)
         {
             Console.Write("Ingrese el valor del nodo raíz");
-			int raiz = int.Parse(Console.ReadLine());
+			int Raiz = int.Parse(Console.ReadLine());
 
       		int [] Array1 = new int [0];
       		int [] Array2 = new int [0];
