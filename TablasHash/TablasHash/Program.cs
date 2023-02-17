@@ -20,7 +20,7 @@ namespace TablasHash
                 Console.WriteLine(Estados.Key + " " + Estados.Value);
             }
 
-            tb.Add (6, "Guerrero");
+            tb.Add(6, "Guerrero");
             Console.WriteLine("-----------------------------------");
             foreach (DictionaryEntry Estados in tb)
             {
@@ -34,7 +34,7 @@ namespace TablasHash
             Console.WriteLine(tb.Contains(7));
 
             Console.WriteLine("-----------------------------------");
-            tb.Remove (6);
+            tb.Remove(6);
 
             Console.WriteLine("-----------------------------------");
             foreach (string b in tb.Values)
