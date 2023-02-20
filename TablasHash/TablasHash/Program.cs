@@ -7,43 +7,43 @@ namespace TablasHash
     {
         static void Main(string[] args)
         {
-            Hashtable tb = new Hashtable();
+            Hashtable Tb = new Hashtable();
 
-            tb.Add(1, "Jalisco");
-            tb.Add(2, "Mexico");
-            tb.Add(3, "Veracruz");
-            tb.Add(4, "Chiapas");
-            tb.Add(5, "Guerrero");
+            Tb.Add(1, "Jalisco");
+            Tb.Add(2, "Mexico");
+            Tb.Add(3, "Veracruz");
+            Tb.Add(4, "Chiapas");
+            Tb.Add(5, "Guerrero");
 
-            foreach (DictionaryEntry Estados in tb)
+            foreach (DictionaryEntry Estados in Tb)
             {
                 Console.WriteLine(Estados.Key + " " + Estados.Value);
             }
 
-            tb.Add(6, "Guerrero");
+            Tb.Add(6, "Guerrero");
             Console.WriteLine("-----------------------------------");
-            foreach (DictionaryEntry Estados in tb)
+            foreach (DictionaryEntry Estados in Tb)
             {
                 Console.WriteLine(Estados.Key + " " + Estados.Value);
             }
 
             Console.WriteLine("-----------------------------------");
-            Console.WriteLine(tb.Count);
+            Console.WriteLine(Tb.Count);
 
             Console.WriteLine("-----------------------------------");
-            Console.WriteLine(tb.Contains(7));
+            Console.WriteLine(Tb.Contains(7));
 
             Console.WriteLine("-----------------------------------");
-            tb.Remove(6);
+            Tb.Remove(6);
 
             Console.WriteLine("-----------------------------------");
-            foreach (string b in tb.Values)
+            foreach (string b in Tb.Values)
             {
                 Console.WriteLine(b);
             }
 
             Console.WriteLine("-----------------------------------");
-            foreach (int c in tb.Keys)
+            foreach (int c in Tb.Keys)
             {
                 Console.WriteLine(c);
             }
@@ -60,7 +60,7 @@ namespace TablasHash
                 Console.WriteLine("Ingrese el Id a buscar");
                 int ValorBuscado = int.Parse(Console.ReadLine());
 
-                if (tb.Contains(ValorBuscado))
+                if (Tb.Contains(ValorBuscado))
                 {
                     Console.WriteLine("El valor " + ValorBuscado + " existe en la tabla");
                 }
@@ -76,7 +76,7 @@ namespace TablasHash
                 
                 bool Encuentra = false;
 
-                foreach (string Val in tb.Values)
+                foreach (string Val in Tb.Values)
                 {
                     if (Val == ValorBuscado)
                     {
