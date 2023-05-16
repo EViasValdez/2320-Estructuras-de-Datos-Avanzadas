@@ -26,11 +26,11 @@ namespace BusquedaBinaria
             {
                 for (int j = 0; j < Arreglo.Length - 1; j++)
                 {
-                    if (Arreglo [j] > Arreglo [j + 1])
+                    if (Arreglo[j] > Arreglo[j + 1])
                     {
-                        Aux = Arreglo [j];
-                        Arreglo [j] = Arreglo [j + 1];
-                        Arreglo [j + 1] = Aux;
+                        Aux = Arreglo[j];
+                        Arreglo[j] = Arreglo[j + 1];
+                        Arreglo[j + 1] = Aux;
                     }
                 }
             }
@@ -51,16 +51,16 @@ namespace BusquedaBinaria
             do
             {
                 Media = (Inicio + Final) / 2;
-                if (ValorBuscado == Arreglo [Media])
+                if (ValorBuscado == Arreglo[Media])
                 {
                     Console.WriteLine("El valor buscado se encuentra en el indice " + Media);
                     z = true;
                 }
-                else if (ValorBuscado > Arreglo [Media])
+                else if (ValorBuscado > Arreglo[Media])
                 {
                     Final = Media - 1;
                 }
-                else if (ValorBuscado < Arreglo [Media])
+                else if (ValorBuscado < Arreglo[Media])
                 {
                     Inicio = Media + 1;
                 }
