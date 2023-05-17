@@ -63,7 +63,7 @@ namespace ArbolBinarioArray
                         Guardar(1, 4, 0);
                         Console.WriteLine("El nodo llego a su limite");
 
-                        // Temporal
+                        // Temporal.
                         Resp = "N";
                     }
                     if (Resp == "N")
@@ -76,7 +76,7 @@ namespace ArbolBinarioArray
                             Console.WriteLine("El nodo llego a su limite");
                         }
                     }
-                    // Temporal
+                    // Temporal.
                     Resp = "N";
                 }
                 if (Resp == "N")
@@ -92,7 +92,7 @@ namespace ArbolBinarioArray
                         {
                             Guardar(1, 4, 2);
                             Console.WriteLine("El nodo llego a su limite");
-                            // Temporal
+                            // Temporal.
                             Resp = "N";
                         }
                         if (Resp == "N")
@@ -105,11 +105,11 @@ namespace ArbolBinarioArray
                                 Console.WriteLine("El nodo llego a su limite");
                             }
                         }
-                        // Temporal
+                        // Temporal.
                         Resp = "N";
                     }
                 }
-                // Temporal
+                // Temporal.
                 Resp = "N";
             }
             if (Resp == "N")
@@ -131,7 +131,7 @@ namespace ArbolBinarioArray
                             Guardar(1, 4, 4);
                             Console.WriteLine("El nodo llego a su limite");
 
-                            // Temporal
+                            // Temporal.
                             Resp = "N";
                         }
                         if (Resp == "N")
@@ -144,7 +144,7 @@ namespace ArbolBinarioArray
                                 Console.WriteLine("El nodo llego a su limite");
                             }
                         }
-                        // Temporal
+                        // Temporal.
                         Resp = "N";
                     }
                     if (Resp == "N")
@@ -161,7 +161,7 @@ namespace ArbolBinarioArray
                                 Guardar(1, 4, 6);
                                 Console.WriteLine("El nodo llego a su limite");
 
-                                // Temporal
+                                // Temporal.
                                 Resp = "N";
                             }
                             if (Resp == "N")
@@ -173,11 +173,11 @@ namespace ArbolBinarioArray
                                     Console.WriteLine("El nodo llego a su limite");
                                 }
                             }
-                            // Temporal
+                            // Temporal.
                             Resp = "N";
                         }
                     }
-                    // Temporal
+                    // Temporal.
                     Resp = "N";
                 }
             }
