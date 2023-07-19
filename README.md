@@ -1,9 +1,5 @@
 # Estructuras de datos avanzadas
 
-<!----Descripción---->
-Tomo un poco más de tiempo para mí para crear este repositorio, especialmente debido a que tuve que buscar los documentos originales.
-<!----Separador de la descripción ---->
-
 <!----Notas---->
 **Notas**
 
