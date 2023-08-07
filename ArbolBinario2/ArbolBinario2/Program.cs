@@ -13,9 +13,9 @@ namespace ArbolBinario2
             Console.Write("Ingrese el valor del nodo raíz");
 			int Raiz = int.Parse(Console.ReadLine());
 
-      		int [] Array1 = new int[0];
-      		int [] Array2 = new int[0];
-      		int [] Array3 = new int[0];
+      		int[] Array1 = new int[0];
+      		int[] Array2 = new int[0];
+      		int[] Array3 = new int[0];
 
 			string Resp;
 			int Nodo;

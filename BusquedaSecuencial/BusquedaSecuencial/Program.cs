@@ -13,7 +13,7 @@ namespace BusquedaSecuencial
 
         public static void BusquedaEntero()
         {
-            int [] ArrayCont = new int [10];
+            int[] ArrayCont = new int [10];
             
             for (int i = 0; i < ArrayCont.Length; i++)
             {
@@ -84,9 +84,9 @@ namespace BusquedaSecuencial
         {
             List <Listas> objPersona = new List<Listas>();
 
-            objPersona.Add(new Listas(){Id = 1, Nombre = "Juan", ApellidoPaterno = "Hernandez", ApellidoMaterno = "Velazquez"});
-            objPersona.Add(new Listas(){Id = 2, Nombre = "Rogelio", ApellidoPaterno = "Sanchez", ApellidoMaterno = "Hernanadez" });
-            objPersona.Add(new Listas(){Id = 3, Nombre = "Manuel", ApellidoPaterno = "Alvarez", ApellidoMaterno = "Noh" });
+            objPersona.Add(new Listas() {Id = 1, Nombre = "Juan", ApellidoPaterno = "Hernandez", ApellidoMaterno = "Velazquez"});
+            objPersona.Add(new Listas() {Id = 2, Nombre = "Rogelio", ApellidoPaterno = "Sanchez", ApellidoMaterno = "Hernanadez" });
+            objPersona.Add(new Listas() {Id = 3, Nombre = "Manuel", ApellidoPaterno = "Alvarez", ApellidoMaterno = "Noh" });
 
             foreach (Listas c in objPersona)
             {
