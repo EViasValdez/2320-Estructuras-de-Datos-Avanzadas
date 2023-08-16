@@ -14,7 +14,7 @@
 # Descripcion de los programas
 ## ● Unidad 1 ●
 ###### ArbolBinario2 - 06/20
-Texto por ser escrito.
+Realiza un arbol binario por medio de un valor de nodo.
 
 ## ● Unidad 2 ●
 ###### BusquedaSecuencial - 03/07/20
