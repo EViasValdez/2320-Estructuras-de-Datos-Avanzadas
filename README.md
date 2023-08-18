@@ -7,7 +7,7 @@
 
 **- Al igual como los proyectos de programación orientada a objetos los trabajos fueron cambiados de version de NET.**
 
-**- El proyecto "Apli" era un proyecto vació que lo termine eliminando, ya que no tenia motivo para estar ahí.**
+**- El proyecto "Apli" era un proyecto vacio que lo termine eliminando, ya que no tenia motivo para estar ahí.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripcion de los programas---->
