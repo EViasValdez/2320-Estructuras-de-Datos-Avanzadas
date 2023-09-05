@@ -18,7 +18,6 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Busque
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\bin\Debug\net6.0\BusquedaSecuencial.runtimeconfig.json
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\bin\Debug\net6.0\BusquedaSecuencial.dll
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\bin\Debug\net6.0\BusquedaSecuencial.pdb
-D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\net6.0\BusquedaSecuencial.csproj.AssemblyReference.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\net6.0\BusquedaSecuencial.GeneratedMSBuildEditorConfig.editorconfig
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\net6.0\BusquedaSecuencial.AssemblyInfoInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\net6.0\BusquedaSecuencial.AssemblyInfo.cs

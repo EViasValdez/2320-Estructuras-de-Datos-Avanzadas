@@ -13,7 +13,6 @@ D:\Usuarios\Eduardo\Descargas\GitHub\2320-Estructuras-De-Datos-Avanzadas\ArbolBi
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Estructuras-De-Datos-Avanzadas\ArbolBinario2\ArbolBinario2\obj\Debug\net6.0\ArbolBinario2.pdb
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Estructuras-De-Datos-Avanzadas\ArbolBinario2\ArbolBinario2\obj\Debug\net6.0\ArbolBinario2.genruntimeconfig.cache
 D:\Usuarios\Eduardo\Descargas\GitHub\2320-Estructuras-De-Datos-Avanzadas\ArbolBinario2\ArbolBinario2\obj\Debug\net6.0\ref\ArbolBinario2.dll
-D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\ArbolBinario2\ArbolBinario2\obj\Debug\net6.0\ArbolBinario2.csproj.AssemblyReference.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\ArbolBinario2\ArbolBinario2\obj\Debug\net6.0\ArbolBinario2.GeneratedMSBuildEditorConfig.editorconfig
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\ArbolBinario2\ArbolBinario2\obj\Debug\net6.0\ArbolBinario2.AssemblyInfoInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\ArbolBinario2\ArbolBinario2\obj\Debug\net6.0\ArbolBinario2.AssemblyInfo.cs
