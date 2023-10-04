@@ -5,7 +5,7 @@
 
 **- Ya logre añadir más trabajos al repositorio, esto después de buscar algunos documentos de otros directorios.**
 
-**- Al igual como los proyectos de programación orientada a objetos los trabajos fueron cambiados de version de NET.**
+**- Al igual como los proyectos de programación orientada a objetos los trabajos fueron cambiados de version de NET, esto tambien sera cambiado para repositorios con programas en C#.**
 
 **- El proyecto "Apli" era un proyecto vacio que lo termine eliminando, ya que no tenia motivo para estar ahí.**
 <!----Separador de las notas---->
