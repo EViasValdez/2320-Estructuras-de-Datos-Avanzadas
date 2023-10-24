@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-Estructuras-De-Datos-Avanzadas\\ArbolBinarioArray\\ArbolBinarioArray\\ArbolBinarioArray.csproj",
+      "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-Estructuras-de-Datos-Avanzadas\\ArbolBinarioArray\\ArbolBinarioArray\\ArbolBinarioArray.csproj",
       "projectName": "ArbolBinarioArray",
-      "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-Estructuras-De-Datos-Avanzadas\\ArbolBinarioArray\\ArbolBinarioArray\\ArbolBinarioArray.csproj",
+      "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-Estructuras-de-Datos-Avanzadas\\ArbolBinarioArray\\ArbolBinarioArray\\ArbolBinarioArray.csproj",
       "packagesPath": "C:\\Users\\defaultuser0\\.nuget\\packages\\",
-      "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-Estructuras-De-Datos-Avanzadas\\ArbolBinarioArray\\ArbolBinarioArray\\obj\\",
+      "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2320-Estructuras-de-Datos-Avanzadas\\ArbolBinarioArray\\ArbolBinarioArray\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

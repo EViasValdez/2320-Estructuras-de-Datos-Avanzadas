@@ -18,7 +18,6 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Busque
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\bin\Debug\net6.0\BusquedaBinaria.runtimeconfig.json
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\bin\Debug\net6.0\BusquedaBinaria.dll
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\bin\Debug\net6.0\BusquedaBinaria.pdb
-D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\obj\Debug\net6.0\BusquedaBinaria.csproj.AssemblyReference.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\obj\Debug\net6.0\BusquedaBinaria.GeneratedMSBuildEditorConfig.editorconfig
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\obj\Debug\net6.0\BusquedaBinaria.AssemblyInfoInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\obj\Debug\net6.0\BusquedaBinaria.AssemblyInfo.cs
