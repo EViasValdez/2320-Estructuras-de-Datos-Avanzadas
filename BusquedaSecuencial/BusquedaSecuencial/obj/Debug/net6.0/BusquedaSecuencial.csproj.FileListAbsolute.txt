@@ -27,3 +27,4 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Busque
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\net6.0\BusquedaSecuencial.pdb
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\net6.0\BusquedaSecuencial.genruntimeconfig.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\net6.0\ref\BusquedaSecuencial.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\net6.0\BusquedaSecuencial.sourcelink.json

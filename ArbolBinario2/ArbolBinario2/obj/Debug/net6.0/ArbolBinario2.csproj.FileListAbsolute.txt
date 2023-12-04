@@ -27,3 +27,4 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\ArbolB
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\ArbolBinario2\ArbolBinario2\bin\Debug\net6.0\ArbolBinario2.pdb
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\ArbolBinario2\ArbolBinario2\obj\Debug\net6.0\ArbolBinario2.genruntimeconfig.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\ArbolBinario2\ArbolBinario2\obj\Debug\net6.0\ref\ArbolBinario2.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\ArbolBinario2\ArbolBinario2\obj\Debug\net6.0\ArbolBinario2.sourcelink.json

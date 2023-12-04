@@ -12,3 +12,4 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\Tablas
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\TablasHash\TablasHash\obj\Debug\net6.0\TablasHash.pdb
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\TablasHash\TablasHash\obj\Debug\net6.0\TablasHash.genruntimeconfig.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\TablasHash\TablasHash\obj\Debug\net6.0\ref\TablasHash.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\TablasHash\TablasHash\obj\Debug\net6.0\TablasHash.sourcelink.json

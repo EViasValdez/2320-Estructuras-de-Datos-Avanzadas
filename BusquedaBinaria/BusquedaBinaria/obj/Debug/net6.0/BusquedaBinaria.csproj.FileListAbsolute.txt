@@ -27,3 +27,4 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\Busque
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\obj\Debug\net6.0\BusquedaBinaria.pdb
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\obj\Debug\net6.0\BusquedaBinaria.genruntimeconfig.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-De-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\obj\Debug\net6.0\ref\BusquedaBinaria.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\obj\Debug\net6.0\BusquedaBinaria.sourcelink.json
