@@ -15,7 +15,7 @@ namespace ArbolBinarioArray
 
         static void Main(string[] args)
         {
-            // llenar();
+            // Llenar();
             LlenarDefault();
             Imprimir();
             Eliminar();
@@ -37,7 +37,7 @@ namespace ArbolBinarioArray
             Array4[6] = 7;
             Array4[7] = 8;
         }
-        public static void llenar()
+        public static void Llenar()
         {
             Console.WriteLine("Ingrese el valor del nodo raíz:");
             int Raiz = int.Parse(Console.ReadLine());
