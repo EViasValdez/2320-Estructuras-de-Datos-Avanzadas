@@ -42,7 +42,8 @@ namespace Registros
 
                     Confirmar = true;
 
-                    if (SN.ToLower().Equals("no")) {
+                    if (SN.ToLower().Equals("no"))
+                    {
                         Confirmar = false;
                     }
                 } while (Confirmar);
@@ -74,7 +75,8 @@ namespace Registros
 
                     Confirmar = true;
 
-                    if (SN.ToLower().Equals("no")) {
+                    if (SN.ToLower().Equals("no"))
+                    {
                         Confirmar = false;
                     }
                 } while (Confirmar);
