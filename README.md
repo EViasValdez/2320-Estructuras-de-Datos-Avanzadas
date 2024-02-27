@@ -7,7 +7,7 @@
 
 **- Al igual como los proyectos de programación orientada a objetos los trabajos fueron cambiados de version de NET, esto también será cambiado para repositorios con programas en C#, esto tambien pasara con otros archivos con dicho lenguaje.**
 
-**- El proyecto "Apli" era un proyecto vacío que lo termine eliminando, ya que no tenía motivo para que estuviera aqui.**
+**- El proyecto "Apli" era un proyecto vacío que termino siendo eliminado, ya que no tenía motivo para que estuviera aqui.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
