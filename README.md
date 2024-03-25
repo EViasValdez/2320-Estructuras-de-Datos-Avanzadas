@@ -28,7 +28,7 @@ Realiza una búsqueda de valores de manera binaria.
 <!----Separador---->
 
 ###### TablasHash - 24/07/20
-Por medio del método de las tablas hash se puede realizar búsquedas por medio del ID del elemento.
+Por medio del método de las tablas hash se pueden realizar búsquedas por medio del ID del elemento.
 
 <!----Separador---->
 
