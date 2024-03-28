@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BusquedaBinaria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fbcdacfdba1548f57b5a3c9566416b47c1aca33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0eb20f2930d5e4e15ead602f3ab0682ce4908568")]
 [assembly: System.Reflection.AssemblyProductAttribute("BusquedaBinaria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BusquedaBinaria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
