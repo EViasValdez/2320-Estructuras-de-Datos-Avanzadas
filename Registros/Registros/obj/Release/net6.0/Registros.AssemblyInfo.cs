@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Registros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+758541e502ea7d406b2b082d067d591eb03b02c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a3991217d516ec9daf36ebbc1b84853497c04d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Registros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Registros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
