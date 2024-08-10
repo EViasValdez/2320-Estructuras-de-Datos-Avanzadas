@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BusquedaSecuencial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+493dd70bfe11307d221b3a8d682c7a36bea4a3ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d31353fe8bfe439cc2a5b5bfdab0650f2a81c626")]
 [assembly: System.Reflection.AssemblyProductAttribute("BusquedaSecuencial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BusquedaSecuencial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
