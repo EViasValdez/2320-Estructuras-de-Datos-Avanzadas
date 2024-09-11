@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ArbolBinarioArray")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Registros")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c44eb7374d963530c87391c424f6b5a559288d46")]
-[assembly: System.Reflection.AssemblyProductAttribute("ArbolBinarioArray")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ArbolBinarioArray")]
+[assembly: System.Reflection.AssemblyProductAttribute("Registros")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Registros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
