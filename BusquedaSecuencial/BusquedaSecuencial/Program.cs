@@ -105,7 +105,7 @@ namespace BusquedaSecuencial
             {
                 if (a.Nombre == ValorBuscado || a.ApellidoPaterno == ValorBuscado || a.ApellidoMaterno == ValorBuscado)
                 {
-                    Console.WriteLine("El valor buscado se encuentra con el id " + a.Id);
+                    Console.WriteLine("El valor buscado se encuentra con el ID " + a.Id);
                     Resp = true;
                 }
                 if (Resp == false)
