@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArbolBinarioArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2e2cc7c8c3b5e4198e345f67b0976e9f8c8e338")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77772691e455ec26e236c8292d027a7768972ab1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArbolBinarioArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArbolBinarioArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
