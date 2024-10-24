@@ -16,7 +16,7 @@ namespace BusquedaSecuencial
 
         public static void BusquedaEntero()
         {
-            int[] ArrayCont = new int [10];
+            int [] ArrayCont = new int [10];
             
             for (int i = 0; i < ArrayCont.Length; i++)
             {

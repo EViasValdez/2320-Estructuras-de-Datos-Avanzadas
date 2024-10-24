@@ -345,17 +345,17 @@ namespace ArbolBinarioArray
                 Contador++;
             }
             Console.WriteLine("                  " + TextArray1);
-            //Console.WriteLine("               " + "/" + "     " + "\\");
-            //Console.WriteLine("              " + "/" + "       " + "\\");
-            //Console.WriteLine("             " + "/" + "         " + "\\");
+            // Console.WriteLine("               " + "/" + "     " + "\\");
+            // Console.WriteLine("              " + "/" + "       " + "\\");
+            // Console.WriteLine("             " + "/" + "         " + "\\");
             Console.WriteLine("               " + Linea1);
             Console.WriteLine("              " + Linea2);
             Console.WriteLine("             " + Linea3);
             Console.WriteLine("            " + TextArray2);
-            //Console.WriteLine("          " + "/" + "   " + "\\" + "       " + "/" + "   " + "\\");
+            // Console.WriteLine("          " + "/" + "   " + "\\" + "       " + "/" + "   " + "\\");
             Console.WriteLine("          " + Linea4);
             Console.WriteLine("         " + TextArray3);
-            //Console.WriteLine("        " + "/" + " " + "\\" + "   " + "/" + " " + "\\" + "   " + "/" + " " + "\\" + "   " + "/" + " " + "\\");
+            // Console.WriteLine("        " + "/" + " " + "\\" + "   " + "/" + " " + "\\" + "   " + "/" + " " + "\\" + "   " + "/" + " " + "\\");
             Console.WriteLine("        " + Linea5);
             Console.WriteLine("       " + TextArray4);
         }
