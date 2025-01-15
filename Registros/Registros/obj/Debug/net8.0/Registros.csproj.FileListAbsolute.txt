@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\Registros\Registros\bin\Debug\net8.0\Registros.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\Registros\Registros\bin\Debug\net8.0\Registros.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\Registros\Registros\bin\Debug\net8.0\Registros.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\Registros\Registros\bin\Debug\net8.0\Registros.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\Registros\Registros\bin\Debug\net8.0\Registros.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\Registros\Registros\obj\Debug\net8.0\Registros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\Registros\Registros\obj\Debug\net8.0\Registros.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\Registros\Registros\obj\Debug\net8.0\Registros.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\Registros\Registros\obj\Debug\net8.0\Registros.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\Registros\Registros\obj\Debug\net8.0\Registros.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\Registros\Registros\obj\Debug\net8.0\Registros.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\Registros\Registros\obj\Debug\net8.0\refint\Registros.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\Registros\Registros\obj\Debug\net8.0\Registros.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\Registros\Registros\obj\Debug\net8.0\Registros.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\Registros\Registros\obj\Debug\net8.0\ref\Registros.dll

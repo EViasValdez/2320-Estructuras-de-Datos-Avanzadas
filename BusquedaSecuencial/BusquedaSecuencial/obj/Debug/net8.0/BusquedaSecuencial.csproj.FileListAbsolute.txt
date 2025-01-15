@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\bin\Debug\net8.0\BusquedaSecuencial.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\bin\Debug\net8.0\BusquedaSecuencial.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\bin\Debug\net8.0\BusquedaSecuencial.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\bin\Debug\net8.0\BusquedaSecuencial.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\bin\Debug\net8.0\BusquedaSecuencial.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\net8.0\BusquedaSecuencial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\net8.0\BusquedaSecuencial.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\net8.0\BusquedaSecuencial.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\net8.0\BusquedaSecuencial.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\net8.0\BusquedaSecuencial.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\net8.0\BusquedaSecuencial.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\net8.0\refint\BusquedaSecuencial.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\net8.0\BusquedaSecuencial.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\net8.0\BusquedaSecuencial.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\net8.0\ref\BusquedaSecuencial.dll

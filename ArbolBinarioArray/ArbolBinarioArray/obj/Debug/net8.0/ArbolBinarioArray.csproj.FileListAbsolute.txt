@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\ArbolBinarioArray\ArbolBinarioArray\bin\Debug\net8.0\ArbolBinarioArray.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\ArbolBinarioArray\ArbolBinarioArray\bin\Debug\net8.0\ArbolBinarioArray.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\ArbolBinarioArray\ArbolBinarioArray\bin\Debug\net8.0\ArbolBinarioArray.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\ArbolBinarioArray\ArbolBinarioArray\bin\Debug\net8.0\ArbolBinarioArray.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\ArbolBinarioArray\ArbolBinarioArray\bin\Debug\net8.0\ArbolBinarioArray.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\ArbolBinarioArray\ArbolBinarioArray\obj\Debug\net8.0\ArbolBinarioArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\ArbolBinarioArray\ArbolBinarioArray\obj\Debug\net8.0\ArbolBinarioArray.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\ArbolBinarioArray\ArbolBinarioArray\obj\Debug\net8.0\ArbolBinarioArray.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\ArbolBinarioArray\ArbolBinarioArray\obj\Debug\net8.0\ArbolBinarioArray.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\ArbolBinarioArray\ArbolBinarioArray\obj\Debug\net8.0\ArbolBinarioArray.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\ArbolBinarioArray\ArbolBinarioArray\obj\Debug\net8.0\ArbolBinarioArray.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\ArbolBinarioArray\ArbolBinarioArray\obj\Debug\net8.0\refint\ArbolBinarioArray.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\ArbolBinarioArray\ArbolBinarioArray\obj\Debug\net8.0\ArbolBinarioArray.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\ArbolBinarioArray\ArbolBinarioArray\obj\Debug\net8.0\ArbolBinarioArray.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\ArbolBinarioArray\ArbolBinarioArray\obj\Debug\net8.0\ref\ArbolBinarioArray.dll

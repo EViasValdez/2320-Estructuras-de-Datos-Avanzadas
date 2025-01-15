@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\bin\Debug\net8.0\BusquedaBinaria.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\bin\Debug\net8.0\BusquedaBinaria.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\bin\Debug\net8.0\BusquedaBinaria.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\bin\Debug\net8.0\BusquedaBinaria.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\bin\Debug\net8.0\BusquedaBinaria.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\obj\Debug\net8.0\BusquedaBinaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\obj\Debug\net8.0\BusquedaBinaria.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\obj\Debug\net8.0\BusquedaBinaria.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\obj\Debug\net8.0\BusquedaBinaria.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\obj\Debug\net8.0\BusquedaBinaria.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\obj\Debug\net8.0\BusquedaBinaria.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\obj\Debug\net8.0\refint\BusquedaBinaria.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\obj\Debug\net8.0\BusquedaBinaria.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\obj\Debug\net8.0\BusquedaBinaria.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2320-Estructuras-de-Datos-Avanzadas\BusquedaBinaria\BusquedaBinaria\obj\Debug\net8.0\ref\BusquedaBinaria.dll
