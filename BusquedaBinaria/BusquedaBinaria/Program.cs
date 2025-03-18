@@ -56,11 +56,13 @@ namespace BusquedaBinaria
                     Console.WriteLine("El valor buscado se encuentra en el indice " + Media);
                     z = true;
                 }
-                else if (ValorBuscado > Arreglo[Media])
+                else
+                if (ValorBuscado > Arreglo[Media])
                 {
                     Final = Media - 1;
                 }
-                else if (ValorBuscado < Arreglo[Media])
+                else
+                if (ValorBuscado < Arreglo[Media])
                 {
                     Inicio = Media + 1;
                 }
