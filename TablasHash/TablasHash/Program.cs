@@ -73,7 +73,8 @@ namespace TablasHash
                     Console.WriteLine("El valor " + ValorBuscado + " no existe en la tabla");
                 }
             }
-            else if (Tipo == 2)
+            else
+            if (Tipo == 2)
             {
                 Console.WriteLine("Ingrese el valor a buscar: ");
                 string ValorBuscado = Console.ReadLine();
